@@ -1,0 +1,157 @@
+{
+  "id": "SV_DE00011499",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+	"text": "lycklig",
+	"pronunciation": {
+	  "value": "²lỵk:lig"
+	},
+	"pos": "adjective",
+	"inflections": [
+	  {
+		"text": "lyckligt",
+		"gender": "neuter"
+	  },
+	  {
+		"text": "lyckliga",
+		"number": "plural"
+	  }
+	]
+  },
+  "senses": [
+	{
+	  "id": "SV_SE00013962",
+	  "definition": "full av lycka (1), glad",
+	  "antonyms": [
+		"olycklig"
+	  ],
+	  "translations": {
+		"de": {
+		  "text": "glücklich"
+		},
+		"en": [
+		  {
+			"text": "successful"
+		  },
+		  {
+			"text": "happy"
+		  }
+		],
+		"es": [
+		  {
+			"text": "feliz"
+		  },
+		  {
+			"text": "venturoso/-sa"
+		  }
+		],
+		"fr": {
+		  "text": "heureux/-euse"
+		}
+	  },
+	  "examples": [
+		{
+		  "text": "De är nyförlovade och mycket lyckliga.",
+		  "translations": {
+			"de": {
+			  "text": "Sie waren seit kurzem verlobt und sehr glücklich."
+			},
+			"en": {
+			  "text": "They are newly engaged and very happy."
+			},
+			"es": {
+			  "text": "Se acababan de prometer y eran muy felices."
+			},
+			"fr": {
+			  "text": "Il sont jeunes mariés et très heureux."
+			}
+		  }
+		}
+	  ],
+	  "compositional_phrases": [
+		{
+		  "text": "en lycklig tilldragelse",
+		  "translations": {
+			"de": {
+			  "text": "ein glückliches Ereignis"
+			},
+			"en": {
+			  "text": "a fortunate occurrence"
+			},
+			"es": {
+			  "text": "un feliz acontecimiento"
+			},
+			"fr": {
+			  "text": "un heureux événement"
+			}
+		  }
+		}
+	  ]
+	},
+	{
+	  "id": "SV_SE00013963",
+	  "definition": "som får positiva följder, lyckosam",
+	  "translations": {
+		"de": [
+		  {
+			"text": "geglückt"
+		  },
+		  {
+			"text": "positiv"
+		  }
+		],
+		"en": [
+		  {
+			"text": "positive"
+		  },
+		  {
+			"text": "fortunate"
+		  },
+		  {
+			"text": "successful"
+		  }
+		],
+		"es": [
+		  {
+			"text": "feliz"
+		  },
+		  {
+			"text": "acertada/-da"
+		  },
+		  {
+			"text": "favorable"
+		  }
+		],
+		"fr": [
+		  {
+			"text": "favorable"
+		  },
+		  {
+			"text": "bénéfique"
+		  }
+		]
+	  },
+	  "examples": [
+		{
+		  "text": "ett lyckligt beslut",
+		  "translations": {
+			"de": {
+			  "text": "ein positiver Entschluss"
+			},
+			"en": {
+			  "text": "a positive decision"
+			},
+			"es": {
+			  "text": "una decisión acertada"
+			},
+			"fr": {
+			  "text": "une bonne décision"
+			}
+		  }
+		}
+	  ]
+	}
+  ]
+}

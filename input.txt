@@ -1,0 +1,53 @@
+Afrika	Afrika	Afrika är den näst största kontinenten i världen efter Asien.
+Amerika	Amerika	Amerikas förenta stater består av femtio stater.
+Australien	Ausztrália	Australien är världens minsta kontinent.
+gräns	határ	Frankrike delar en gräns med Tyskland.
+bro	híd	De byggde en ny bro för att korsa floden.
+storbritannien	Nagy-Britannia	Storbritannien består av England, Skottland och Wales.
+huvudstad	főváros	Frankrikes huvudstad är Paris.
+stad	város	London är en mycket stor stad.
+Land	ország; vidék	Han bor i ett mycket stort hus i landet.
+grevskap	megye	Ett län använde tc under en räkning.
+distrikt	körzet, kerület	Ett distrikt i ett land har vanligtvis sin egen lokala regering.
+England	Anglia	England är en del av Storbritannien.
+Europa	Európa	Europa är en av de sju kontinenterna på jorden.
+Frankrike	Franciaország	Paris är huvudstaden i Frankrike.
+Tyskland	Németország	Tysklands huvudstad är Berlin.
+irland	Írország	Ön Irland är uppdelad i två delar, Irland och Nordirland.
+ö	sziget	En ö är ett land som är helt omgivet av vatten.
+Italien	Olaszország	Italien gränsar till Frankrike, Slovenien, Österrike och Schweiz.
+Japan	Japán	Japan består av många öar.
+landa	ország; vidék	Regeringen vill införa den nya lagen i hela landet.
+parkera	park	Barnen tycker om att spela fotboll i parken.
+område	vidék, régió, körzet	En region kan vara en samling av mindre markenheter eller en del av ett större område.
+regional	regionális, körzeti	Det kan finnas starka regionala skillnader i ett land.
+skottland	Skócia	Skottland är den norra tredjedelen av Storbritannien.
+stad	város	Huset var bara fem minuter utanför staden.
+Storbritannien	Egyesült Királyság	Med Storbritannien avses Storbritannien Storbritannien och Nordirland.
+USA	USA	USA står för Amerikas Förenta Stater.
+by	falu	En by är en gemenskap som är mindre än en stad eller stad.
+wales	Wales	Wales ligger i den västra delen av Storbritannien.
+utomlands	külföldön, külföldre	James reser utomlands regelbundet.
+Asien	Ázsia	Asien utgör mer än 60 procent av världens befolkning.
+aveny	sugárút, fasor	Alléen var kantad med ljust målade hus.
+stad	választókerület, kerület	De bodde i en lugn stad i norra delen av staden.
+Kalifornien	Kalifornia	Kalifornien är en stat i USA som har många turister.
+Kanada	Kanada	Kanada har två officiella språk, engelska och franska.
+Kina	Kína	Peking är Kinas huvudstad.
+kontinent	földrész, kontinens	Europa är en av de sju kontinenterna i världen.
+Egypten	Egyiptom	Egypten är ett land i Nordafrika.
+Global	globális, világ-	Det finns många tecken på global klimatförändring.
+Indien	India	Hindi och engelska är de officiella språken i Indien.
+Iran	Irán	Irans huvudstad är Teheran.
+Irak	Irak	Irak har den näst högsta oljereserven i världen efter Saudiarabien.
+Israel	Izrael	Jerusalem är Israels huvudstad.
+Korea	Korea	Korea är för närvarande uppdelat i två länder, Nordkorea och Sydkorea.
+lokal-	helyi	Hennes söner går på den lokala grundskolan.
+utomlands	külföld, külföldre	Fler och fler reser utomlands för att hitta arbete.
+pakistan	Pakisztán	Islamabad är Pakistan huvudstad.
+Polen	Lengyelország	Polen gick in i Europeiska unionen 2004.
+provins	tartomány	Provinsen Nordirland är den enda provinsen under brittiskt styre idag.
+ryssland	Oroszország	Ryssland är det största landet i världen.
+Spanien	Spanyolország	Spanien delar gränser med Portugal, Frankrike, Andorra, Gibraltar och Marocko.
+territorium	terület, körzet	Landet delades upp i tre territorier.
+Vietnam	Vietnam	Vietnam sägs ha en befolkning på mer än 84 miljoner.
