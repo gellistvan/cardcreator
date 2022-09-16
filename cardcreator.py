@@ -1,14 +1,27 @@
-import sys, json, os
+import sys, json, os, requests
 
-print(sys.argv[1])
+headers = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-GB,en;q=0.5",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:81.0) Gecko/20100101 Firefox/81.0",
+    'X-RapidAPI-Key': '38e68a53afmshda5b90ffc32ec9fp1e2949jsnb3210b6ddec5',
+    'X-RapidAPI-Host': 'lexicala1.p.rapidapi.com'
+}
 
 def search(keyword) :
     filename="./search/" + keyword + ".json"
     if os.path.isfile(filename):
         with open(filename, "r", encoding='utf-8') as file:
             return file.read()
-    ## send request and write result
-    return ""
+
+    result = requests.get('https://lexicala1.p.rapidapi.com/search', headers=headers,
+                          params={'language': 'sv', 'text': keyword}).text
+    with open(filename, "w", encoding='utf-8') as file:
+        file.write(result)
+
+    return result
+
 
 def retrive(r_id):
     filename="./retrieve/" + r_id + ".json"
@@ -16,8 +29,11 @@ def retrive(r_id):
         with open(filename, "r", encoding='utf-8') as file:
             return file.read()
 
-    ## send request and write result
-    return ""
+    result = requests.get('https://lexicala1.p.rapidapi.com/entries/' + r_id, headers=headers).text
+    with open(filename, "w", encoding='utf-8') as file:
+        file.write(result)
+
+    return result
 
 
 def read_entries(path):
@@ -69,7 +85,7 @@ def process_list(input):
 
 process_list(sys.argv[1])
 
-result = json.loads(search("lycklig"))
+result = json.loads(search("fönster"))
 num_results = int(result["n_results"])
 for res in result["results"]:
     id = res["id"]

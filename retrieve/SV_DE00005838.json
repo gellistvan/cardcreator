@@ -1,0 +1,76 @@
+{
+  "id": "SV_DE00005838",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "fönster",
+    "pronunciation": {
+      "value": "fọ̈n:ster"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "fönstret",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "fönster",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "fönstren",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00007031",
+      "definition": "glasad öppning i vägg eller tak",
+      "examples": [
+        {
+          "text": "Öppna fönstret!"
+        },
+        {
+          "text": "Stäng fönstret!"
+        },
+        {
+          "text": "Han tvättar fönstren en gång om året."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "butiks|fönster"
+        },
+        {
+          "text": "fönster|bräda"
+        },
+        {
+          "text": "fönster|karm"
+        },
+        {
+          "text": "fönster|plats"
+        },
+        {
+          "text": "fönster|ruta"
+        },
+        {
+          "text": "köks|fönster"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00007032",
+      "definition": "öppning",
+      "examples": [
+        {
+          "text": "St Petersburg, Rysslands fönster mot Europa."
+        }
+      ]
+    }
+  ]
+}
