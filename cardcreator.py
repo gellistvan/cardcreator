@@ -97,8 +97,12 @@ def generate_pdf(cards, pages, output):
 def get_pronunciation(term):
     ett = term.startswith("ett ")
     verb = term.startswith("att ")
+    prefix = ""
+
     if ett or verb:
         term = term[4:]
+        prefix = "att " if verb else "ett "
+
     result = json.loads(search(term))
     num_results = int(result["n_results"])
     pron = []
@@ -114,8 +118,21 @@ def get_pronunciation(term):
 
             item = json.loads(retrive(id))
             pron.append(item["headword"]["pronunciation"]["value"])
+
+            if not verb and not ett:
+                if pos == "verb" :
+                    prefix = "att "
+                elif pos == "noun" :
+                    infl = item["headword"]["inflections"]
+                    if len (infl) > 0 and (len(infl[0]["text"]) - len(term)) >= 2 and infl[0]["text"].endswith("et"):
+                        prefix = "ett "
+
+
     else:
         print("Entry [" + term + "] not found")
+
+    if len(prefix) > 0:
+        term = prefix + term
 
     # print (term + " [" + ", ".join(pron) + "]")
     return (term, ", ".join(pron))
