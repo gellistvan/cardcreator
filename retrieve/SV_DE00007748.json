@@ -1,0 +1,100 @@
+{
+  "id": "SV_DE00007748",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "herre",
+    "pronunciation": {
+      "value": "²hạ̈r:e"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "herrn",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "herrar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "herrarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00009303",
+      "senses": [
+        {
+          "id": "SV_SE00009304",
+          "definition": "man (gärna med god position i samhället)",
+          "examples": [
+            {
+              "text": "en äldre herre"
+            },
+            {
+              "text": "Mina damer och herrar! Tillåt mig presentera ..."
+            }
+          ],
+          "compositional_phrases": [
+            {
+              "text": "herr|bastu"
+            },
+            {
+              "text": "herr|skjorta"
+            }
+          ]
+        },
+        {
+          "id": "SV_SE00009305",
+          "definition": "idrottsgren för män",
+          "examples": [
+            {
+              "text": "På 100 meter för herrar segrade Usain Bolt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00009306",
+      "senses": [
+        {
+          "id": "SV_SE00009307",
+          "definition": "man som bestämmer, härskare",
+          "examples": [
+            {
+              "text": "slaven och hans herre"
+            }
+          ],
+          "compositional_phrases": [
+            {
+              "text": "herre|lös"
+            },
+            {
+              "text": "Herre Gud!"
+            }
+          ]
+        },
+        {
+          "id": "SV_SE00009308",
+          "definition": "Gud",
+          "examples": [
+            {
+              "text": "Herren är min herde."
+            },
+            {
+              "text": "Herren skall bevara dig för allt ont."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

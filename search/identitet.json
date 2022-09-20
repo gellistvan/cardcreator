@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00008412",
+      "language": "sv",
+      "headword": {
+        "text": "identitet",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00010132",
+          "definition": "vem eller vad någon eller något är"
+        },
+        {
+          "id": "SV_SE00010133",
+          "definition": "särart"
+        }
+      ]
+    }
+  ]
+}

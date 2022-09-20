@@ -1,0 +1,28 @@
+{
+  "id": "SV_DE00009151",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "junior",
+    "pronunciation": {
+      "value": "jụ:nior"
+    },
+    "pos": "adjective",
+    "homograph_number": 2
+  },
+  "senses": [
+    {
+      "id": "SV_SE00011003",
+      "definition": "den yngre (om son i motsats till far)",
+      "antonyms": [
+        "senior"
+      ],
+      "examples": [
+        {
+          "text": "Peter Andersson junior"
+        }
+      ]
+    }
+  ]
+}

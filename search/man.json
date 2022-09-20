@@ -1,0 +1,71 @@
+{
+  "n_results": 3,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00011900",
+      "language": "sv",
+      "headword": {
+        "text": "man",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00014472",
+          "definition": "vuxen person av hankön"
+        },
+        {
+          "id": "SV_SE00014473",
+          "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)"
+        },
+        {
+          "id": "SV_SE00014474",
+          "definition": "make"
+        },
+        {
+          "id": "SV_SE00014475",
+          "definition": "person i allmänhet (man eller kvinna)"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00011899",
+      "language": "sv",
+      "headword": {
+        "text": "man",
+        "pos": "pronoun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00014470",
+          "definition": "pronomen, tex någon, folk, de"
+        },
+        {
+          "id": "SV_SE00014471",
+          "definition": "någon"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00011901",
+      "language": "sv",
+      "headword": {
+        "text": "man",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00014476",
+          "definition": "långt hår i nacken på häst eller lejon"
+        },
+        {
+          "id": "SV_SE00014477",
+          "definition": "yvigt hår (på människa)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "SV_DE00017080",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "signatur",
+    "pronunciation": {
+      "value": "siŋnatụ:r"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "signaturen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "signaturer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "signaturerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00020675",
+      "definition": "egenhändig namnteckning",
+      "translations": {
+        "de": {
+          "text": "Unterschrift",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "signature"
+        },
+        "es": {
+          "text": "firma",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "signature",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Skriv under med din signatur.",
+          "translations": {
+            "de": {
+              "text": "Setzen Sie Ihre Unterschrift bitte hier."
+            },
+            "en": {
+              "text": "Sign here with your signature."
+            },
+            "es": {
+              "text": "Rubrica con tu firma."
+            },
+            "fr": {
+              "text": "Apposez votre signature."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00020676",
+      "definition": "särskild beteckning på journalist, person som skrivit insändare e.d.",
+      "translations": {
+        "de": {
+          "text": "Pseudonym",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "signature"
+        },
+        "es": {
+          "text": "seudónimo",
+          "gender": "masculine"
+        },
+        "fr": [
+          {
+            "text": "nom de plume",
+            "gender": "masculine"
+          },
+          {
+            "text": "signature",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "En insändare av signaturen \"Arg trebarnsmor\".",
+          "translations": {
+            "de": {
+              "text": "Eine Einsendeschreiben unterzeichnet mit dem Pseudonym \"wütende Mutter von drei Kindern\"."
+            },
+            "en": {
+              "text": "a letter to the editor with the signature, \"angry mother of three\""
+            },
+            "es": {
+              "text": "Una carta al director con el seudónimo \"Madre de tres hijos indignada.\""
+            },
+            "fr": {
+              "text": "une lettre de lecteur portant la signature \" Mère de famille nombreuse en colère \""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

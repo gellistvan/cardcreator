@@ -3,10 +3,10 @@ import sys, json, os, requests
 
 proxy = 'http://10.66.243.130:8080'
 
-#os.environ['http_proxy'] = proxy
-#os.environ['HTTP_PROXY'] = proxy
-#os.environ['https_proxy'] = proxy
-#os.environ['HTTPS_PROXY'] = proxy
+os.environ['http_proxy'] = proxy
+os.environ['HTTP_PROXY'] = proxy
+os.environ['https_proxy'] = proxy
+os.environ['HTTPS_PROXY'] = proxy
 
 headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -64,8 +64,15 @@ def generate_pdf(cards, pages, output):
                     index = page*16 + line *4 + item
                     output.write("<td><div class=\"article\"><b>")
                     if index < len(cards):
-                        output.write(cards[index][0])
-                    output.write("</b></div></td>\n")
+                        output.write(cards[index][0][0])
+                    output.write("</b></div>")
+                    # if index < len(cards):
+                    #     output.write("\n<div class=\"definition\">")
+                    #
+                    #     output.write(cards[index][0][1])
+                    #     output.write("</div>\n")
+
+                    output.write("</td>\n")
                 output.write("</tr>\n")
             output.write("</table>\n")
 
@@ -98,6 +105,7 @@ def get_pronunciation(term):
     ett = term.startswith("ett ")
     verb = term.startswith("att ")
     prefix = ""
+    descs = []
 
     if ett or verb:
         term = term[4:]
@@ -106,15 +114,27 @@ def get_pronunciation(term):
     result = json.loads(search(term))
     num_results = int(result["n_results"])
     pron = []
+    i = 1
     if num_results > 0:
         for res in result["results"]:
             id = res["id"]
+
             #for sense in res["senses"]:
             #    print(sense["definition"])
             pos = res["headword"]["pos"]
             if num_results > 1 and ((verb and pos!="verb") or (ett and pos != "noun")):
                 print ("Skipping search result [" + res["headword"]["text"] + "] for search term [" + term +"]")
                 continue
+
+            defs = []
+            for sense in res["senses"]:
+                if "definition" in sense:
+                    defs.append(sense["definition"])
+            if num_results > 1:
+                descs.append("(" + str(i) + ".) " + ", ".join(defs))
+                i += 1
+            else:
+                descs.append(", ".join(defs))
 
             item = json.loads(retrive(id))
             pron.append(item["headword"]["pronunciation"]["value"])
@@ -134,8 +154,8 @@ def get_pronunciation(term):
     if len(prefix) > 0:
         term = prefix + term
 
-    # print (term + " [" + ", ".join(pron) + "]")
-    return (term, ", ".join(pron))
+    # print (term + " [" + "; ".join(descs) + "]")
+    return (term, ", ".join(pron), "; ".join(descs))
 
 def preprocess_cards(cards):
     result = []
@@ -143,15 +163,15 @@ def preprocess_cards(cards):
         terms = [x.strip().lower() for x in card[0].split(',')]
         if len(terms) == 1:
              p = get_pronunciation(terms[0])
-             result.append((card[1][0], (p[0], p[1], card[1][1])))
+             result.append(((card[1][0], p[2]), (p[0], p[1], card[1][1])))
         else:
             main_terms = []
             pronounciations = []
             for term in terms:
-                (t, p) = get_pronunciation(term)
+                (t, p, d) = get_pronunciation(term)
                 main_terms.append(t)
                 pronounciations.append(p)
-            result.append((card[1][0], (", ".join(main_terms), ", ".join(pronounciations), card[1][1])))
+            result.append(((card[1][0], d), (", ".join(main_terms), ", ".join(pronounciations), card[1][1])))
 
     return result
 

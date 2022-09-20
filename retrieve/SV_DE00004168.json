@@ -1,0 +1,90 @@
+{
+  "id": "SV_DE00004168",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "efternamn",
+    "pronunciation": {
+      "value": "²ẹf:ter‿nam:n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "efternamnet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "efternamn",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "efternamnen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00004966",
+      "definition": "släktnamn",
+      "translations": {
+        "de": {
+          "text": "Nachname",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "last name"
+          },
+          {
+            "text": "surname"
+          },
+          {
+            "text": "family name"
+          }
+        ],
+        "es": {
+          "text": "apellido",
+          "gender": "masculine"
+        },
+        "fr": [
+          {
+            "text": "nom de famille",
+            "gender": "masculine"
+          },
+          {
+            "text": "patronyme",
+            "gender": "masculine"
+          },
+          {
+            "text": "nom patronymique",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon heter Anna i förnamn och Lundkvist i efternamn.",
+          "translations": {
+            "de": {
+              "text": "Ihr Vorname ist Anna und ihr Nachname ist Lundkvist."
+            },
+            "en": {
+              "text": "Her first name is Anna and her last name is Lundkvist."
+            },
+            "es": {
+              "text": "Su nombre es Anna y su apellido Lundkvist."
+            },
+            "fr": {
+              "text": "Son prénom est Anna et son nom de famille Lundkvist."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

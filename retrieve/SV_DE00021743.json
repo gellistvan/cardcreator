@@ -1,0 +1,73 @@
+{
+  "id": "SV_DE00021743",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "ungdom",
+    "pronunciation": {
+      "value": "²ụŋ:dom:"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "ungdomen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "ungdomar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "ungdomarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00026464",
+      "definition": "den tid då man är ung",
+      "examples": [
+        {
+          "text": "I mammas ungdom fanns inga datorer."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "ungdoms|bok"
+        },
+        {
+          "text": "ungdoms|tid"
+        },
+        {
+          "text": "ungdoms|år"
+        },
+        {
+          "text": "i någons gröna ungdom"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00026465",
+      "definition": "ung människa",
+      "range_of_application": "mest i plural",
+      "examples": [
+        {
+          "text": "Ungdomarna skulle gå på diskotek."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "ungdoms|förbund"
+        },
+        {
+          "text": "(dans för) mogen ungdom"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00005076",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "flicka",
+    "pronunciation": {
+      "value": "²flịk:a"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "flickan",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "flickor",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "flickorna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006068",
+      "definition": "barn av kvinnligt kön; ung kvinna",
+      "examples": [
+        {
+          "text": "De har tre barn, två flickor och en pojke."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "flick|lag"
+        },
+        {
+          "text": "skol|flicka"
+        }
+      ]
+    }
+  ]
+}

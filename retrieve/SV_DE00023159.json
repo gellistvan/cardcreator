@@ -1,0 +1,20 @@
+{
+  "id": "SV_DE00023159",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "vuxen",
+    "pronunciation": {
+      "value": "²vụk:sen"
+    },
+    "pos": "verb",
+    "homograph_number": 2
+  },
+  "senses": [
+    {
+      "id": "SV_SE00028169",
+      "see": "växa"
+    }
+  ]
+}

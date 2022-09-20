@@ -1,0 +1,41 @@
+{
+  "id": "SV_DE00020924",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "tonåring",
+    "pronunciation": {
+      "value": "²tạ̊n:å:riŋ"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "tonåringen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "tonåringar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "tonåringarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00025466",
+      "definition": "pojke eller flicka som är mellan 13 och 19 år gammal",
+      "examples": [
+        {
+          "text": "Jag har fortfarande en tonåring hemma."
+        }
+      ]
+    }
+  ]
+}

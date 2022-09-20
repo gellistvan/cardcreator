@@ -1,0 +1,165 @@
+{
+  "id": "SV_DE00011899",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "man",
+    "pronunciation": {
+      "value": "man:"
+    },
+    "pos": "pronoun",
+    "homograph_number": 1
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014470",
+      "definition": "pronomen, tex någon, folk, de",
+      "translations": {
+        "de": {
+          "text": "man"
+        },
+        "en": [
+          {
+            "text": "one"
+          },
+          {
+            "text": "folk"
+          },
+          {
+            "text": "people"
+          }
+        ],
+        "es": [
+          {
+            "text": "uno"
+          },
+          {
+            "text": "se"
+          }
+        ],
+        "fr": {
+          "text": "(l')on"
+        }
+      },
+      "examples": [
+        {
+          "text": "Man räknar med färre arbetslösa nästa år.",
+          "translations": {
+            "de": {
+              "text": "Man rechtet mit weniger Arbeitslosen in diesem Jahr."
+            },
+            "en": {
+              "text": "Folk are expecting less unemployment next year."
+            },
+            "es": {
+              "text": "Se calcula que habrá menos desempleados el próximo año."
+            },
+            "fr": {
+              "text": "On s'attend à une baisse du chômage l'an prochain."
+            }
+          }
+        },
+        {
+          "text": "Man lär så länge man lever - som det heter i ett gammalt ordspråk.",
+          "translations": {
+            "de": {
+              "text": "Man lernt nie aus, so besagt ein altes Sprichwort."
+            },
+            "en": {
+              "text": "Live and learn - as the old saying goes."
+            },
+            "es": {
+              "text": "Uno no deja de aprender en toda la vida, como dice el viejo proverbio."
+            },
+            "fr": {
+              "text": "Vivre c'est apprendre, comme le dit un ancien proverbe."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "innan man vet ordet av",
+          "translations": {
+            "de": {
+              "text": "bevor man es weiß"
+            },
+            "en": {
+              "text": "before one even knew what happened"
+            },
+            "es": {
+              "text": "en un abrir y cerrar de ojos"
+            },
+            "fr": {
+              "text": "en moins de temps qu'il ne faut pour le dire"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014471",
+      "definition": "någon",
+      "translations": {
+        "de": [
+          {
+            "text": "man"
+          },
+          {
+            "text": "jemand"
+          }
+        ],
+        "en": [
+          {
+            "text": "one"
+          },
+          {
+            "text": "someone"
+          },
+          {
+            "text": "anyone"
+          }
+        ],
+        "es": [
+          {
+            "text": "uno"
+          },
+          {
+            "text": "se"
+          }
+        ],
+        "fr": [
+          {
+            "text": "on"
+          },
+          {
+            "text": "moi"
+          },
+          {
+            "text": "je"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Får man ta en bulle till? frågade hon.",
+          "translations": {
+            "de": {
+              "text": "Darf man noch eine Semmel nehmen?, fragte sie."
+            },
+            "en": {
+              "text": "Are we allowed to have another bun? she asked."
+            },
+            "es": {
+              "text": "\"¿Se puede coger otro bollo?\", preguntó ella."
+            },
+            "fr": {
+              "text": "Puis-je prendre un autre petit pain ? demanda-t-elle."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

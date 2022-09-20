@@ -1,0 +1,197 @@
+{
+  "id": "SV_DE00012851",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "människa",
+    "pronunciation": {
+      "value": "²mẹn:iʃa "
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "människan",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "människor",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "människorna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00015626",
+      "definition": "man, kvinna eller barn",
+      "translations": {
+        "de": {
+          "text": "Mensch",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "human"
+        },
+        "es": {
+          "text": "persona",
+          "gender": "feminine"
+        },
+        "fr": [
+          {
+            "text": "homme",
+            "gender": "masculine"
+          },
+          {
+            "text": "(être) humain",
+            "gender": "masculine"
+          },
+          {
+            "text": "personne (humaine)",
+            "gender": "feminine"
+          },
+          {
+            "text": "individu",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Den moderna människans situation.",
+          "translations": {
+            "de": {
+              "text": "die Situation des modernen Menschen"
+            },
+            "en": {
+              "text": "The situation of modern-day humans."
+            },
+            "es": {
+              "text": "La situación del hombre moderno."
+            },
+            "fr": {
+              "text": "la situation de l'Homme moderne"
+            }
+          }
+        },
+        {
+          "text": "Tre människor skadades vid olyckan.",
+          "translations": {
+            "de": {
+              "text": "Drei Menschen wurden beim Unfall verletzt."
+            },
+            "en": {
+              "text": "Three people were injured in the accident."
+            },
+            "es": {
+              "text": "En el accidente resultaron heridas tres personas."
+            },
+            "fr": {
+              "text": "Trois personnes ont été blessées lors de l'accident."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "med|människa",
+          "translations": {
+            "de": {
+              "text": "Mitmensch",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "fellow human"
+            },
+            "es": {
+              "text": "semejante",
+              "gender": "masculine"
+            },
+            "fr": [
+              {
+                "text": "prochain/-aine",
+                "gender": "masculine"
+              },
+              {
+                "text": "semblable",
+                "gender": "masculine-feminine"
+              }
+            ]
+          }
+        },
+        {
+          "text": "människo|kropp",
+          "translations": {
+            "de": {
+              "text": "Leiche",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "human body"
+            },
+            "es": {
+              "text": "cuerpo humano",
+              "gender": "masculine"
+            },
+            "fr": [
+              {
+                "text": "corps humain",
+                "gender": "masculine"
+              },
+              {
+                "text": "organisme",
+                "gender": "masculine"
+              }
+            ]
+          }
+        },
+        {
+          "text": "människo|liv",
+          "translations": {
+            "de": {
+              "text": "Menschenleben",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "human life"
+            },
+            "es": {
+              "text": "vida humana",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "vie humaine",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "människo|värde",
+          "translations": {
+            "de": {
+              "text": "Menschenwürde",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "human worth/dignity"
+            },
+            "es": {
+              "text": "dignidad humana",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "dignité humaine",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

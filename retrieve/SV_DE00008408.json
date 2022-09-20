@@ -1,0 +1,75 @@
+{
+  "id": "SV_DE00008408",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "identifiera",
+    "pronunciation": {
+      "value": "identifiẹ:ra"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "identifierar",
+        "tense": "present"
+      },
+      {
+        "text": "identifierade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "identifierat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "identifierad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "identifiera",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00010125",
+      "definition": "känner igen, påvisar identiteten hos",
+      "range_of_application": "ngn identifierar ngn/ngt",
+      "translations": {
+        "de": {
+          "text": "identifizieren"
+        },
+        "en": {
+          "text": "to identify"
+        },
+        "es": {
+          "text": "identificar"
+        },
+        "fr": {
+          "text": "identifier"
+        }
+      },
+      "examples": [
+        {
+          "text": "Polisen har inte kunnat identifiera kroppen.",
+          "translations": {
+            "de": {
+              "text": "Die Polizei konnte die Leiche nicht identifizieren."
+            },
+            "en": {
+              "text": "The police have not been able to identify the body."
+            },
+            "es": {
+              "text": "La policía no ha podido identificar el cadáver."
+            },
+            "fr": {
+              "text": "La police n'a pas pu identifier le corps."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

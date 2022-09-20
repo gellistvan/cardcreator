@@ -1,0 +1,63 @@
+{
+  "id": "SV_DE00020788",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "titel",
+    "pronunciation": {
+      "value": "²tịt:el"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "titeln",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "titlar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "titlarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00025290",
+      "definition": "beteckning på yrke eller utbildning",
+      "examples": [
+        {
+          "text": "Han bryr sig inte om fina titlar."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "professors|titel"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00025291",
+      "definition": "namn på bok, film e.d.",
+      "examples": [
+        {
+          "text": "En roman med titeln \"Slottet\"."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "titel|sida"
+        },
+        {
+          "text": "bok|titel"
+        }
+      ]
+    }
+  ]
+}

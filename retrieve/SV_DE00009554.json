@@ -1,0 +1,51 @@
+{
+  "id": "SV_DE00009554",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "kille",
+    "pronunciation": {
+      "value": "²kịl:e"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "killen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "killar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "killarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00011477",
+      "definition": "pojke",
+      "register": "informal",
+      "examples": [
+        {
+          "text": "killar och tjejer"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00011478",
+      "definition": "pojkvän",
+      "examples": [
+        {
+          "text": "Har du träffat Lisas nye kille?"
+        }
+      ]
+    }
+  ]
+}

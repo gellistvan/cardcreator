@@ -1,0 +1,103 @@
+{
+  "id": "SV_DE00005578",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "frånvaro",
+    "pronunciation": {
+      "value": "²frạ̊:nva:ro"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "frånvaron",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006681",
+      "definition": "det att inte vara på den förväntade platsen",
+      "antonyms": [
+        "närvaro"
+      ],
+      "translations": {
+        "de": {
+          "text": "Abwesenheit",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "absence"
+        },
+        "es": {
+          "text": "ausencia",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "absence",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Jag hade hög frånvaro förra året."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "sjuk|frånvaro",
+          "translations": {
+            "de": {
+              "text": "Abwesenheit wegen Krankheit",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "absence due to illness"
+            },
+            "es": {
+              "text": "ausencia por enfermedad",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "absence pour cause de maladie",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "lyser med sin frånvaro",
+          "translations": {
+            "de": {
+              "text": "durch Abwesenheit glänzen",
+              "gender": "-"
+            },
+            "en": {
+              "text": "to have one's (shining) presence be noticed when absent"
+            },
+            "es": {
+              "text": "brillar por su ausencia",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "briller par son absence",
+              "gender": "-"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

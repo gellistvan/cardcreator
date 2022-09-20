@@ -1,0 +1,129 @@
+{
+  "id": "SV_DE00004398",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "enskild",
+    "pronunciation": {
+      "value": "²ẹ:nʃil:d"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "enskilt",
+        "gender": "neuter"
+      },
+      {
+        "text": "enskilda",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00005231",
+      "definition": "privat; enstaka",
+      "antonyms": [
+        "allmän",
+        "offentlig"
+      ],
+      "translations": {
+        "de": [
+          {
+            "text": "privat"
+          },
+          {
+            "text": "einzeln"
+          }
+        ],
+        "en": [
+          {
+            "text": "private"
+          },
+          {
+            "text": "personal"
+          },
+          {
+            "text": "separate"
+          }
+        ],
+        "es": [
+          {
+            "text": "privado/-da"
+          },
+          {
+            "text": "individual"
+          }
+        ],
+        "fr": [
+          {
+            "text": "particulier"
+          },
+          {
+            "text": "privé"
+          },
+          {
+            "text": "individuel"
+          },
+          {
+            "text": "personnel"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "ett enskilt samtal",
+          "translations": {
+            "de": {
+              "text": "ein privates Gespräch"
+            },
+            "en": {
+              "text": "a private conversation"
+            },
+            "es": {
+              "text": "una conversación privada"
+            },
+            "fr": {
+              "text": "une conversation privée"
+            }
+          }
+        },
+        {
+          "text": "en enskild väg",
+          "translations": {
+            "de": {
+              "text": "ein privater Weg"
+            },
+            "en": {
+              "text": "a private road"
+            },
+            "es": {
+              "text": "un camino privado"
+            },
+            "fr": {
+              "text": "un chemin privé"
+            }
+          }
+        },
+        {
+          "text": "Varje enskild medlem får säga vad han eller hon vill.",
+          "translations": {
+            "de": {
+              "text": "Jedes einzelne Mitglied, darf sagen was er oder sie möchte."
+            },
+            "en": {
+              "text": "Each individual member is allowed to say what he or she would like."
+            },
+            "es": {
+              "text": "Cada uno de los miembros puede decir lo que desee."
+            },
+            "fr": {
+              "text": "Chacun des membres a l'occasion de dire ce qu'il ou elle veut."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

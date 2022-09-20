@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00005814",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "födelsedag",
+    "pronunciation": {
+      "value": "²fọ̈:delseda:g"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "födelsedagen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "födelsedagar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "födelsedagarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006997",
+      "definition": "årsdagen av den dag då någon föddes",
+      "examples": [
+        {
+          "text": "De firade henne med en tårta på födelsedagen."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "födelsedags|kalas"
+        },
+        {
+          "text": "födelsedags|present"
+        }
+      ]
+    }
+  ]
+}

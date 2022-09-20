@@ -1,0 +1,360 @@
+{
+  "id": "SV_DE00012959",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "namn",
+    "pronunciation": {
+      "value": "nam:n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "namnet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "namn",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "namnen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00015767",
+      "definition": "det som någon kallas",
+      "translations": {
+        "de": {
+          "text": "Name",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "name"
+        },
+        "es": {
+          "text": "nombre",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "nom",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Hennes namn är Eva Johansson.",
+          "translations": {
+            "de": {
+              "text": "Ihr Name ist Eva Johansson."
+            },
+            "en": {
+              "text": "Her name is Eva Johansson."
+            },
+            "es": {
+              "text": "Su nombre es Eva Johansson."
+            },
+            "fr": {
+              "text": "Son nom est Eva Johansson."
+            }
+          }
+        },
+        {
+          "text": "En lista med namnen på alla deltagarna.",
+          "translations": {
+            "de": {
+              "text": "Eine Liste mit den Namen aller Teilnehmer."
+            },
+            "en": {
+              "text": "A list with the names of all the participants."
+            },
+            "es": {
+              "text": "Una lista con los nombres de todos los participantes."
+            },
+            "fr": {
+              "text": "une liste des noms de tous les participants"
+            }
+          }
+        },
+        {
+          "text": "En journalist vid namn Blom.",
+          "translations": {
+            "de": {
+              "text": "ein Journalist mit dem Namen Blom"
+            },
+            "en": {
+              "text": "A journalist by the name of Blom."
+            },
+            "es": {
+              "text": "Un periodista de nombre Blom."
+            },
+            "fr": {
+              "text": "un journaliste nommé Blom"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "namn|byte",
+          "translations": {
+            "de": {
+              "text": "Namensänderung",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "name change"
+            },
+            "es": {
+              "text": "cambio de nombre",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "changement de nom",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "namn|ändring",
+          "translations": {
+            "de": {
+              "text": "Namensänderung",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "name change"
+            },
+            "es": {
+              "text": "cambio de nombre",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "modification patronymique",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "efter|namn",
+          "translations": {
+            "de": {
+              "text": "Nachname",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "last name"
+            },
+            "es": {
+              "text": "apellido",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "nom de famille",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "för|namn",
+          "translations": {
+            "de": {
+              "text": "Vorname",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "first name"
+            },
+            "es": {
+              "text": "nombre (de pila)",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "prénom",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "ett antaget namn",
+          "translations": {
+            "de": {
+              "text": "ein gebräuchlicher Name",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "a taken/adopted/assumed name"
+            },
+            "es": {
+              "text": "un nombre supuesto",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "un nom d'emprunt",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00015768",
+      "definition": "det som något kallas, beteckning",
+      "translations": {
+        "de": {
+          "text": "Name",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "name"
+        },
+        "es": {
+          "text": "nombre",
+          "gender": "masculine"
+        },
+        "fr": [
+          {
+            "text": "nom",
+            "gender": "masculine"
+          },
+          {
+            "text": "désignation",
+            "gender": "feminine"
+          },
+          {
+            "text": "dénomination",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Vi har ansökt om att få ändra namnet på gatan.",
+          "translations": {
+            "de": {
+              "text": "Wir haben einen Antrag gestellt um den Straßennamen zu ändern."
+            },
+            "en": {
+              "text": "We have applied to have the name of the street changed."
+            },
+            "es": {
+              "text": "Hemos solicitado poder cambiar el nombre de la calle."
+            },
+            "fr": {
+              "text": "Nous avons demandé à changer le nom de la rue."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "ort|namn",
+          "translations": {
+            "de": {
+              "text": "Ortsname",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "name of a place/town"
+            },
+            "es": {
+              "text": "topónimo",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "nom de lieu",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "varu|namn",
+          "translations": {
+            "de": {
+              "text": "Produktname",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "product name"
+            },
+            "es": {
+              "text": "marca (de un producto)",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "dénomination commerciale",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "i sanningens namn",
+          "translations": {
+            "de": {
+              "text": "im Namen der Wahrheit",
+              "gender": "-"
+            },
+            "en": {
+              "text": "in the name of truth"
+            },
+            "es": {
+              "text": "en honor a la verdad",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "à vrai dire",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "i ärlighetens namn",
+          "translations": {
+            "de": {
+              "text": "im Namen der Ehrlichkeit",
+              "gender": "-"
+            },
+            "en": {
+              "text": "in the name of honesty/integrity"
+            },
+            "es": {
+              "text": "para ser sincerora",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "en toute franchise",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "nämner något vid dess rätta namn",
+          "translations": {
+            "de": {
+              "text": "das Kind beim rechten Namen nennen",
+              "gender": "-"
+            },
+            "en": {
+              "text": "to call sth by its right name"
+            },
+            "es": {
+              "text": "llamar a algo por su nombre",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "appeler les choses par leurs noms",
+              "gender": "-"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

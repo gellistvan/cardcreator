@@ -1,0 +1,121 @@
+{
+  "id": "SV_DE00005577",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "frånvarande",
+    "pronunciation": {
+      "value": "²frạ̊:nva:rande"
+    },
+    "pos": "adjective"
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006679",
+      "definition": "inte närvarande, borta",
+      "antonyms": [
+        "närvarande"
+      ],
+      "translations": {
+        "de": {
+          "text": "abwesend"
+        },
+        "en": [
+          {
+            "text": "absent"
+          },
+          {
+            "text": "missing"
+          },
+          {
+            "text": "gone"
+          }
+        ],
+        "es": {
+          "text": "ausente"
+        },
+        "fr": {
+          "text": "absent"
+        }
+      },
+      "examples": [
+        {
+          "text": "Två elever var frånvarande från lektionen.",
+          "translations": {
+            "de": {
+              "text": "Zwei Schüler waren abwesend während der Stunde."
+            },
+            "en": {
+              "text": "Two students were missing from the lesson."
+            },
+            "es": {
+              "text": "Dos alumnos estuvieron ausentes de la clase."
+            },
+            "fr": {
+              "text": "Deux élèves étaient absents du cours."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00006680",
+      "definition": "inte närvarande i tankarna, tankspridd",
+      "translations": {
+        "de": {
+          "text": "abwesend"
+        },
+        "en": [
+          {
+            "text": "preoccupied"
+          },
+          {
+            "text": "absent-minded"
+          },
+          {
+            "text": "(mentally) elsewhere"
+          }
+        ],
+        "es": [
+          {
+            "text": "absorto/-ta"
+          },
+          {
+            "text": "distraído/-da"
+          }
+        ],
+        "fr": [
+          {
+            "text": "absent"
+          },
+          {
+            "text": "ailleurs"
+          },
+          {
+            "text": "distrait"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han såg frånvarande ut, antagligen tänkte han på något annat.",
+          "translations": {
+            "de": {
+              "text": "Er sah abwesend aus, er dachte vermutlich an etwas anderes."
+            },
+            "en": {
+              "text": "He looked absent, he was probably thinking about sth else."
+            },
+            "es": {
+              "text": "Él parecía absorto, probablemente estaba pensando en otra cosa."
+            },
+            "fr": {
+              "text": "Il avait l'air absent, sans doute pensait-il à autre chose."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

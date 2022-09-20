@@ -1,0 +1,117 @@
+{
+  "id": "SV_DE00010041",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "kompis",
+    "pronunciation": {
+      "value": "kạ̊m:pis"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "kompisen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "kompisar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "kompisarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00012118",
+      "definition": "kamrat, vän",
+      "register": "informal",
+      "translations": {
+        "de": [
+          {
+            "text": "Freund/-in",
+            "gender": "masculine-feminine"
+          },
+          {
+            "text": "Kumpel",
+            "gender": "masculine"
+          }
+        ],
+        "en": [
+          {
+            "text": "friend"
+          },
+          {
+            "text": "buddy"
+          }
+        ],
+        "es": [
+          {
+            "text": "amigo/-ga",
+            "gender": "masculine-feminine"
+          },
+          {
+            "text": "compinche",
+            "gender": "masculine-feminine"
+          }
+        ],
+        "fr": {
+          "text": "copain",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Anders är hans bästa kompis.",
+          "translations": {
+            "de": {
+              "text": "Anders ist sein bester Freund."
+            },
+            "en": {
+              "text": "Anders is his best friend."
+            },
+            "es": {
+              "text": "Anders es su mejor amigo."
+            },
+            "fr": {
+              "text": "Anders est son meilleur copain."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "klass|kompis",
+          "translations": {
+            "de": {
+              "text": "Klassenkamerad/-in",
+              "gender": "masculine-feminine"
+            },
+            "en": [
+              {
+                "text": "classmate"
+              },
+              {
+                "text": "friend from class"
+              }
+            ],
+            "es": {
+              "text": "compañerora de clase",
+              "gender": "masculine-feminine"
+            },
+            "fr": {
+              "text": "copain de classe",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

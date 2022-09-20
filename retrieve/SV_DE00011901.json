@@ -1,0 +1,51 @@
+{
+  "id": "SV_DE00011901",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "man",
+    "pronunciation": {
+      "value": "ma:n"
+    },
+    "pos": "noun",
+    "homograph_number": 3,
+    "inflections": [
+      {
+        "text": "manen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "manar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "manarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014476",
+      "definition": "långt hår i nacken på häst eller lejon",
+      "examples": [
+        {
+          "text": "Jag kammade hästens man länge och väl."
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014477",
+      "definition": "yvigt hår (på människa)",
+      "examples": [
+        {
+          "text": "Hans hårman gick ända ner till knäna."
+        }
+      ]
+    }
+  ]
+}

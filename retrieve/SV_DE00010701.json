@@ -1,0 +1,115 @@
+{
+  "id": "SV_DE00010701",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "kvinnlig",
+    "pronunciation": {
+      "value": "²kvịn:lig"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "kvinnligt",
+        "gender": "neuter"
+      },
+      {
+        "text": "kvinnliga",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00012946",
+      "definition": "som har att göra med kvinnor; som utgörs av kvinnor",
+      "translations": {
+        "de": {
+          "text": "weiblich"
+        },
+        "en": [
+          {
+            "text": "female"
+          },
+          {
+            "text": "feminine"
+          },
+          {
+            "text": "womanly"
+          }
+        ],
+        "es": {
+          "text": "femenino/-na"
+        },
+        "fr": {
+          "text": "féminin/-ine"
+        }
+      },
+      "examples": [
+        {
+          "text": "kvinnlig och manlig personal",
+          "translations": {
+            "de": {
+              "text": "weibliches und männliches Personal"
+            },
+            "en": {
+              "text": "female and male employees"
+            },
+            "es": {
+              "text": "personal femenino y masculino"
+            },
+            "fr": {
+              "text": "personnel féminin et masculin"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00012947",
+      "definition": "som anses typisk för kvinnor",
+      "translations": {
+        "de": {
+          "text": "weiblich"
+        },
+        "en": [
+          {
+            "text": "regarded as typical for women"
+          },
+          {
+            "text": "feminine"
+          },
+          {
+            "text": "womanly"
+          }
+        ],
+        "es": {
+          "text": "femenino/-na"
+        },
+        "fr": {
+          "text": "féminin/-ine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Hon är mjuk och kvinnlig.",
+          "translations": {
+            "de": {
+              "text": "Sie ist weich und weiblich."
+            },
+            "en": {
+              "text": "She is soft and feminine."
+            },
+            "es": {
+              "text": "Es delicada y femenina."
+            },
+            "fr": {
+              "text": "Elle est douce et féminine."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

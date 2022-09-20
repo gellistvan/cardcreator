@@ -1,0 +1,52 @@
+{
+  "id": "SV_DE00023158",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "vuxen",
+    "pronunciation": {
+      "value": "²vụk:sen"
+    },
+    "pos": "adjective",
+    "homograph_number": 1,
+    "inflections": [
+      {
+        "text": "vuxet",
+        "gender": "neuter"
+      },
+      {
+        "text": "vuxna",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00028168",
+      "definition": "som vuxit och blivit stor, inte längre barn",
+      "examples": [
+        {
+          "text": "en vuxen man"
+        },
+        {
+          "text": "Ett spel som både barn och vuxna har nöje av."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "vuxen|liv"
+        },
+        {
+          "text": "vuxen|studerande"
+        },
+        {
+          "text": "i vuxen ålder"
+        },
+        {
+          "text": "är vuxen (en uppgift)"
+        }
+      ]
+    }
+  ]
+}

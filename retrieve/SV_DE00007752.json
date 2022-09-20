@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00007752",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "hertig",
+    "pronunciation": {
+      "value": "²hạ̈r‿t:ig"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "hertigen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "hertigar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "hertigarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00009312",
+      "definition": "(titel för) vissa manliga medlemmar av kungahus",
+      "examples": [
+        {
+          "text": "hertigen av Windsor"
+        },
+        {
+          "text": "Prins Daniel, hertig av Västergötland."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "stor|hertig"
+        }
+      ]
+    }
+  ]
+}

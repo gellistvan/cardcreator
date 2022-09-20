@@ -1,0 +1,36 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00023159",
+      "language": "sv",
+      "headword": {
+        "text": "vuxen",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00028169"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00023158",
+      "language": "sv",
+      "headword": {
+        "text": "vuxen",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00028168",
+          "definition": "som vuxit och blivit stor, inte längre barn"
+        }
+      ]
+    }
+  ]
+}

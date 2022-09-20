@@ -1,0 +1,603 @@
+{
+  "id": "SV_DE00011900",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "man",
+    "pronunciation": {
+      "value": "man:"
+    },
+    "pos": "noun",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "mannen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "män",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "männen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014472",
+      "definition": "vuxen person av hankön",
+      "antonyms": [
+        "kvinna"
+      ],
+      "translations": {
+        "de": {
+          "text": "Mann",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "man"
+        },
+        "es": [
+          {
+            "text": "hombre",
+            "gender": "masculine"
+          },
+          {
+            "text": "varón",
+            "gender": "masculine"
+          }
+        ],
+        "fr": {
+          "text": "homme",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Männen stod och väntade på sina barn.",
+          "translations": {
+            "de": {
+              "text": "Die Männer standen da und warteten auf ihre Kinder."
+            },
+            "en": {
+              "text": "The man stood and waited for his children."
+            },
+            "es": {
+              "text": "Los hombres estaban esperando a sus hijos."
+            },
+            "fr": {
+              "text": "Les hommes étaient là à attendre leurs enfants."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "mans|kör",
+          "translations": {
+            "de": {
+              "text": "Männerchor",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "men's choir"
+            },
+            "es": {
+              "text": "coro de hombres",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "chœur d'hommes",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "mans|roll",
+          "translations": {
+            "de": {
+              "text": "Männerrolle",
+              "gender": "feminine"
+            },
+            "en": [
+              {
+                "text": "male role"
+              },
+              {
+                "text": "male character"
+              }
+            ],
+            "es": {
+              "text": "papel (tradicional) del hombre",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "rôle masculin",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "mans|samhälle",
+          "translations": {
+            "de": {
+              "text": "Männergesellschaft",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "male-dominated society"
+            },
+            "es": {
+              "text": "sociedad dominada por el hombre",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "société sexiste",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014473",
+      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
+      "range_of_application": "endast i obestämd form singular",
+      "translations": {
+        "de": {
+          "text": "Mann",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "men"
+          },
+          {
+            "text": "members"
+          },
+          {
+            "text": "troops"
+          }
+        ],
+        "es": [
+          {
+            "text": "persona",
+            "gender": "feminine"
+          },
+          {
+            "text": "integrante",
+            "gender": "masculine-feminine"
+          },
+          {
+            "text": "hombre",
+            "gender": "masculine"
+          }
+        ],
+        "fr": [
+          {
+            "text": "homme",
+            "gender": "masculine"
+          },
+          {
+            "text": "membre",
+            "gender": "masculine"
+          },
+          {
+            "text": "équipier",
+            "gender": "masculine"
+          },
+          {
+            "text": "joueur",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "En styrka på 1000 man.",
+          "translations": {
+            "de": {
+              "text": "eine Truppe von 1000 Mann"
+            },
+            "en": {
+              "text": "A force of 1,000 men."
+            },
+            "es": {
+              "text": "Un destacamento de 1.000 hombres."
+            },
+            "fr": {
+              "text": "une force de 1000 hommes"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "bäste man på plan",
+          "translations": {
+            "de": {
+              "text": "bester Spieler auf dem Platz",
+              "gender": "-"
+            },
+            "en": {
+              "text": "the best man on the field"
+            },
+            "es": {
+              "text": "el mejor jugador del partido",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "(le) meilleur homme sur le terrain",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014474",
+      "definition": "make",
+      "translations": {
+        "de": {
+          "text": "Mann",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "man"
+          },
+          {
+            "text": "husband"
+          }
+        ],
+        "es": [
+          {
+            "text": "marido",
+            "gender": "masculine"
+          },
+          {
+            "text": "esposo",
+            "gender": "masculine"
+          }
+        ],
+        "fr": [
+          {
+            "text": "mari",
+            "gender": "masculine"
+          },
+          {
+            "text": "époux",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hennes man är snickare.",
+          "translations": {
+            "de": {
+              "text": "Ihr Mann ist Zimmermann."
+            },
+            "en": {
+              "text": "Her husband is a carpenter."
+            },
+            "es": {
+              "text": "Su marido es ebanista."
+            },
+            "fr": {
+              "text": "Son mari est menuisier."
+            }
+          }
+        },
+        {
+          "text": "Hon mötte sin blivande man 1995.",
+          "translations": {
+            "de": {
+              "text": "Sie traf ihren zukünftigen Mann 1995."
+            },
+            "en": {
+              "text": "She met the man who would become her husband in 1995."
+            },
+            "es": {
+              "text": "Ella conoció al que sería su marido en 1995."
+            },
+            "fr": {
+              "text": "Elle a rencontré son futur mari en 1995."
+            }
+          }
+        },
+        {
+          "text": "De blev man och hustru 1996.",
+          "translations": {
+            "de": {
+              "text": "Sie wurden 1996 Mann und Frau."
+            },
+            "en": {
+              "text": "They became man and wife in 1996."
+            },
+            "es": {
+              "text": "Se convirtieron en marido y mujer en 1996."
+            },
+            "fr": {
+              "text": "Ils sont devenus mari et femme en 1996."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "äkta man",
+          "translations": {
+            "de": {
+              "text": "Ehemann",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "husband"
+            },
+            "es": {
+              "text": "esposo",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "époux",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014475",
+      "definition": "person i allmänhet (man eller kvinna)",
+      "translations": {
+        "de": {
+          "text": "Mann",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "one"
+          },
+          {
+            "text": "person"
+          }
+        ],
+        "es": {
+          "text": "ser humano",
+          "gender": "masculine"
+        },
+        "fr": [
+          {
+            "text": "personne",
+            "gender": "feminine",
+            "number": "singular"
+          },
+          {
+            "text": "tiers",
+            "gender": "masculine",
+            "inflections": [
+              {
+                "text": "tiers",
+                "number": "plural"
+              }
+            ]
+          },
+          {
+            "text": "partie",
+            "gender": "feminine",
+            "number": "singular"
+          },
+          {
+            "text": "quiconque",
+            "pos": "pronoun",
+            "inflections": [
+              {
+                "text": "quiconque",
+                "number": "plural"
+              }
+            ]
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Upplysningarna hade nått tredje man.",
+          "translations": {
+            "de": {
+              "text": "Die Nachricht hatte den dritten Mann erreicht."
+            },
+            "en": {
+              "text": "The news had reached a third party."
+            },
+            "es": {
+              "text": "Los informes habían llegado a terceras personas."
+            },
+            "fr": {
+              "text": "Les renseignements étaient parvenus à un tiers."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "gärnings|man",
+          "translations": {
+            "de": {
+              "text": "Täter/-in",
+              "gender": "masculine-feminine"
+            },
+            "en": [
+              {
+                "text": "culprit"
+              },
+              {
+                "text": "perpetrator"
+              }
+            ],
+            "es": {
+              "text": "delincuente",
+              "gender": "masculine-feminine"
+            },
+            "fr": {
+              "text": "auteur (d'un crime)",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "tjänste|man",
+          "translations": {
+            "de": {
+              "text": "Beamter",
+              "gender": "feminine-masculine"
+            },
+            "en": [
+              {
+                "text": "employee"
+              },
+              {
+                "text": "clerk"
+              }
+            ],
+            "es": {
+              "text": "funcionarioria",
+              "gender": "masculine-feminine"
+            },
+            "fr": {
+              "text": "fonctionnaire",
+              "gender": "masculine-feminine"
+            }
+          }
+        },
+        {
+          "text": "gemene man",
+          "translations": {
+            "de": {
+              "text": "gemeine Mann",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "the man on the street"
+            },
+            "es": {
+              "text": "el común de los mortales",
+              "gender": "masculine"
+            },
+            "fr": [
+              {
+                "text": "l'homme de la rue",
+                "gender": "masculine"
+              },
+              {
+                "text": "tout un chacun",
+                "gender": "-"
+              }
+            ]
+          }
+        },
+        {
+          "text": "god man",
+          "translations": {
+            "de": {
+              "text": "Verwalter/-in",
+              "gender": "masculine-feminine"
+            },
+            "en": [
+              {
+                "text": "executor"
+              },
+              {
+                "text": "trustee"
+              }
+            ],
+            "es": {
+              "text": "albacea",
+              "gender": "masculine-feminine"
+            },
+            "fr": [
+              {
+                "text": "curateur/-trice",
+                "gender": "masculine-feminine"
+              },
+              {
+                "text": "administrateur/-trice de biens",
+                "gender": "masculine-feminine"
+              },
+              {
+                "text": "syndic",
+                "gender": "masculine"
+              }
+            ]
+          }
+        },
+        {
+          "text": "mannen på gatan",
+          "translations": {
+            "de": {
+              "text": "der Mann auf der Straße",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "the man on the street"
+            },
+            "es": {
+              "text": "el hombre de la calle",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "l'homme de la rue",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "på tu man hand",
+          "translations": {
+            "de": {
+              "text": "zu zweit",
+              "gender": "-"
+            },
+            "en": {
+              "text": "in private"
+            },
+            "es": {
+              "text": "mano a mano",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "en tête-à-tête",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "tredje man",
+          "translations": {
+            "de": {
+              "text": "dritter Mann",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "third party"
+            },
+            "es": {
+              "text": "el tercero",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "tiers",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

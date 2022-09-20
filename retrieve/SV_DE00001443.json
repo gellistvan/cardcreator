@@ -1,0 +1,232 @@
+{
+  "id": "SV_DE00001443",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "barn",
+    "pronunciation": {
+      "value": "ba:r‿n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "barnet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "barn",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "barnen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00001640",
+      "definition": "människa som inte är vuxen (från födseln och cirka 10 år framåt)",
+      "antonyms": [
+        "vuxen"
+      ],
+      "translations": {
+        "de": {
+          "text": "Kind",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "child"
+        },
+        "es": [
+          {
+            "text": "niño/-ña",
+            "gender": "masculine-feminine"
+          },
+          {
+            "text": "nene/-na",
+            "gender": "masculine-feminine"
+          }
+        ],
+        "fr": {
+          "text": "enfant",
+          "gender": "masculine-feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Barnen gick tillsammans till skolan.",
+          "translations": {
+            "de": {
+              "text": "Die Kinder gingen zusammen zur Schule."
+            },
+            "en": {
+              "text": "The children went to school together."
+            },
+            "es": {
+              "text": "Los niños iban juntos a la escuela."
+            },
+            "fr": {
+              "text": "Les enfants allaient ensemble à l'école."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "barn|bok",
+          "translations": {
+            "de": {
+              "text": "Kinderbuch",
+              "gender": "-"
+            },
+            "en": {
+              "text": "kids'/children's book"
+            },
+            "es": {
+              "text": "libro infantil",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "livre pour enfants",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "barn|vänlig",
+          "translations": {
+            "de": {
+              "text": "kinderfreundlich",
+              "pos": "adjective",
+              "gender": "-"
+            },
+            "en": {
+              "text": "child-friendly"
+            },
+            "es": {
+              "text": "adecuado para niños",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "adapté/-ée aux enfants",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "blir med barn",
+          "translations": {
+            "de": {
+              "text": "schwanger werden",
+              "gender": "-"
+            },
+            "en": {
+              "text": "to become pregnant"
+            },
+            "es": {
+              "text": "está embarazada",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "tomber enceinte",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "väntar barn",
+          "translations": {
+            "de": {
+              "text": "ein Kind erwarten",
+              "gender": "-"
+            },
+            "en": {
+              "text": "expecting a child"
+            },
+            "es": {
+              "text": "espera un bebé",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "être enceinte",
+              "gender": "-"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00001641",
+      "definition": "en persons son eller dotter",
+      "translations": {
+        "de": {
+          "text": "Kind",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "a person's son or daughter"
+        },
+        "es": [
+          {
+            "text": "hijo/-ja",
+            "gender": "masculine-feminine"
+          },
+          {
+            "text": "menor",
+            "gender": "masculine-feminine"
+          }
+        ],
+        "fr": {
+          "text": "enfant",
+          "gender": "masculine-feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "De har tre barn.",
+          "translations": {
+            "de": {
+              "text": "Sie haben drei Kinder."
+            },
+            "en": {
+              "text": "They have three children."
+            },
+            "es": {
+              "text": "Tienen tres hijos."
+            },
+            "fr": {
+              "text": "Ils ont trois enfants."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "barn|ledig",
+          "translations": {
+            "de": {
+              "text": "Elternurlaub",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "on maternity leave"
+            },
+            "es": {
+              "text": "con permiso de maternidad (o paternidad)",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "en congé parental",
+              "gender": "-"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

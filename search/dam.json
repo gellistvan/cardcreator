@@ -1,0 +1,30 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00003323",
+      "language": "sv",
+      "headword": {
+        "text": "dam",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00003900",
+          "definition": "kvinna"
+        },
+        {
+          "id": "SV_SE00003901"
+        },
+        {
+          "id": "SV_SE00003904",
+          "definition": "ett spel med brickor på schackbräde"
+        }
+      ]
+    }
+  ]
+}

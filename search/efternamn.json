@@ -1,0 +1,23 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00004168",
+      "language": "sv",
+      "headword": {
+        "text": "efternamn",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00004966",
+          "definition": "släktnamn"
+        }
+      ]
+    }
+  ]
+}

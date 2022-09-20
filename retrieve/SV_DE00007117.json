@@ -1,0 +1,41 @@
+{
+  "id": "SV_DE00007117",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "greve",
+    "pronunciation": {
+      "value": "²grẹ:ve"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "greven",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "grevar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "grevarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00008531",
+      "definition": "(person med) en adelstitel",
+      "examples": [
+        {
+          "text": "Han är greve."
+        }
+      ]
+    }
+  ]
+}

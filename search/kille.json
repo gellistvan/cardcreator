@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00009554",
+      "language": "sv",
+      "headword": {
+        "text": "kille",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00011477",
+          "definition": "pojke"
+        },
+        {
+          "id": "SV_SE00011478",
+          "definition": "pojkvän"
+        }
+      ]
+    }
+  ]
+}

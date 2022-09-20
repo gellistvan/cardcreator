@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00020788",
+      "language": "sv",
+      "headword": {
+        "text": "titel",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00025290",
+          "definition": "beteckning på yrke eller utbildning"
+        },
+        {
+          "id": "SV_SE00025291",
+          "definition": "namn på bok, film e.d."
+        }
+      ]
+    }
+  ]
+}

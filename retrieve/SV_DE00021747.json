@@ -1,0 +1,67 @@
+{
+  "id": "SV_DE00021747",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "unge",
+    "pronunciation": {
+      "value": "²ụŋ:e"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "ungen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "ungar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "ungarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00026470",
+      "definition": "barn",
+      "register": "informal",
+      "examples": [
+        {
+          "text": "Ungarna var ute och lekte."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "barn|unge"
+        },
+        {
+          "text": "bus|unge"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00026471",
+      "definition": "avkomma till djur",
+      "examples": [
+        {
+          "text": "Ungen hade ramlat ur boet."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "fågel|unge"
+        },
+        {
+          "text": "katt|unge"
+        }
+      ]
+    }
+  ]
+}

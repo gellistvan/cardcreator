@@ -1,0 +1,41 @@
+{
+  "id": "SV_DE00018897",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "spädbarn",
+    "pronunciation": {
+      "value": "²spạ̈:dba:r‿n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "spädbarnet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "spädbarn",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "spädbarnen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00022928",
+      "definition": "baby",
+      "examples": [
+        {
+          "text": "Jag tog hand om min systers spädbarn."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00001443",
+      "language": "sv",
+      "headword": {
+        "text": "barn",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00001640",
+          "definition": "människa som inte är vuxen (från födseln och cirka 10 år framåt)"
+        },
+        {
+          "id": "SV_SE00001641",
+          "definition": "en persons son eller dotter"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "SV_DE00004108",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "döv",
+    "pronunciation": {
+      "value": "dö:v"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "dövt",
+        "gender": "neuter"
+      },
+      {
+        "text": "döva",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00004896",
+      "definition": "som inte hör, hörselskadad",
+      "translations": {
+        "de": {
+          "text": "taub"
+        },
+        "en": {
+          "text": "deaf"
+        },
+        "es": {
+          "text": "sordo/-da"
+        },
+        "fr": [
+          {
+            "text": "sourd/sourde"
+          },
+          {
+            "text": "malentendant/-ante"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Jag håller på att bli döv.",
+          "translations": {
+            "de": {
+              "text": "Ich werde langsam taub."
+            },
+            "en": {
+              "text": "I'm on the verge of becoming deaf."
+            },
+            "es": {
+              "text": "Me estoy quedando sordo."
+            },
+            "fr": {
+              "text": "Je suis en train de devenir sourd."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "döv|tolk",
+          "translations": {
+            "de": {
+              "text": "Gebärdendolmetscher"
+            },
+            "en": [
+              {
+                "text": "interpreter for the deaf"
+              },
+              {
+                "text": "sign-language interpreter"
+              }
+            ],
+            "es": {
+              "text": "intérprete de lengua de signos"
+            },
+            "fr": {
+              "text": "interprète en langue des signes"
+            }
+          }
+        },
+        {
+          "text": "sten|döv",
+          "translations": {
+            "de": {
+              "text": "stocktaub"
+            },
+            "en": {
+              "text": "stone deaf"
+            },
+            "es": {
+              "text": "sordo como una tapia"
+            },
+            "fr": {
+              "text": "sourd comme un pot"
+            }
+          }
+        },
+        {
+          "text": "talar för döva öron",
+          "translations": {
+            "de": {
+              "text": "tauben Ohren predigen"
+            },
+            "en": {
+              "text": "to speak to deaf ears"
+            },
+            "es": {
+              "text": "predicar en el desierto"
+            },
+            "fr": {
+              "text": "parler dans le vide"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00004897",
+      "definition": "okänslig, oemottaglig",
+      "translations": {
+        "de": [
+          {
+            "text": "taub"
+          },
+          {
+            "text": "kein Gehör haben"
+          }
+        ],
+        "en": [
+          {
+            "text": "deaf"
+          },
+          {
+            "text": "insensitive"
+          }
+        ],
+        "es": [
+          {
+            "text": "sordo/-da"
+          },
+          {
+            "text": "insensible"
+          }
+        ],
+        "fr": [
+          {
+            "text": "sourd"
+          },
+          {
+            "text": "insensible"
+          },
+          {
+            "text": "indifférent"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Regeringen var döv för folkets krav.",
+          "translations": {
+            "de": {
+              "text": "Die Regierung hatte kein Ohr für die Forderungen des Volkes."
+            },
+            "en": {
+              "text": "The administration was deaf to the needs of the people."
+            },
+            "es": {
+              "text": "El gobierno se mostraba insensible a las exigencias del pueblo."
+            },
+            "fr": {
+              "text": "Le gouvernement est resté sourd aux revendications du peuple."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "SV_DE00014864",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "pojke",
+    "pronunciation": {
+      "value": "(²)pạ̊j:ke "
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "pojken",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "pojkar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "pojkarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00017989",
+      "definition": "barn av manligt kön, grabb",
+      "examples": [
+        {
+          "text": "pojkar och flickor"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "pojk|bok"
+        },
+        {
+          "text": "pojk|lag"
+        },
+        {
+          "text": "skol|pojke"
+        }
+      ]
+    }
+  ]
+}

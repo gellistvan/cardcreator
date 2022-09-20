@@ -1,0 +1,396 @@
+{
+  "id": "SV_DE00017240",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "själv",
+    "pronunciation": {
+      "value": "ʃel:v"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "självt",
+        "gender": "neuter"
+      },
+      {
+        "text": "själva",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00020873",
+      "definition": "utan hjälp",
+      "translations": {
+        "de": {
+          "text": "selbst"
+        },
+        "en": [
+          {
+            "text": "self"
+          },
+          {
+            "text": "without help"
+          }
+        ],
+        "es": [
+          {
+            "text": "uno mismo"
+          },
+          {
+            "text": "yo mismo"
+          },
+          {
+            "text": "tú mismo"
+          },
+          {
+            "text": "él mismo"
+          },
+          {
+            "text": "ella misma"
+          }
+        ],
+        "fr": [
+          {
+            "text": "soi-même"
+          },
+          {
+            "text": "lui-même/elle-même/eux-mêmes"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon bakar själv sitt bröd.",
+          "translations": {
+            "de": {
+              "text": "Sie bäckt ihr Brot selbst."
+            },
+            "en": {
+              "text": "She bakes her own bread."
+            },
+            "es": {
+              "text": "Ella misma hace su pan."
+            },
+            "fr": {
+              "text": "Elle fait son pain elle-même."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00020874",
+      "definition": "den egna personen",
+      "translations": {
+        "de": [
+          {
+            "text": "selbst"
+          },
+          {
+            "text": "allein"
+          }
+        ],
+        "en": [
+          {
+            "text": "oneself"
+          },
+          {
+            "text": "themselves"
+          }
+        ],
+        "es": [
+          {
+            "text": "uno mismo"
+          },
+          {
+            "text": "yo mismo"
+          },
+          {
+            "text": "tú mismo"
+          },
+          {
+            "text": "él mismo"
+          },
+          {
+            "text": "ella misma"
+          }
+        ],
+        "fr": [
+          {
+            "text": "soi"
+          },
+          {
+            "text": "il/elle/eux"
+          },
+          {
+            "text": "entre soi"
+          },
+          {
+            "text": "entre eux/elles"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Barnen leker för sig själva.",
+          "translations": {
+            "de": {
+              "text": "Die Kinder spielen alleine."
+            },
+            "en": {
+              "text": "The children play by themselves."
+            },
+            "es": {
+              "text": "Los niños están jugando solos."
+            },
+            "fr": {
+              "text": "Les enfants jouent entre eux."
+            }
+          }
+        },
+        {
+          "text": "Han får skylla sig själv som inte hade bilen försäkrad.",
+          "translations": {
+            "de": {
+              "text": "Es war seine eigene Schuld, dass das Auto nicht versichert war."
+            },
+            "en": {
+              "text": "He has himself to blame for not having the car insured."
+            },
+            "es": {
+              "text": "Quien no tenga el coche asegurado debe echarse la culpa a sí mismo."
+            },
+            "fr": {
+              "text": "C'est de sa propre faute ; il n'avait qu'à assurer la voiture."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "själv|försvar",
+          "translations": {
+            "de": {
+              "text": "Selbstverteidigung"
+            },
+            "en": {
+              "text": "self-defense"
+            },
+            "es": {
+              "text": "defensa propia",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "autodéfense"
+            }
+          }
+        },
+        {
+          "text": "själv|kritik",
+          "translations": {
+            "de": {
+              "text": "selbstkritisch"
+            },
+            "en": {
+              "text": "self-critique"
+            },
+            "es": {
+              "text": "autocrítica",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "autocritique"
+            }
+          }
+        },
+        {
+          "text": "själv|porträtt",
+          "translations": {
+            "de": {
+              "text": "Selbstportrait"
+            },
+            "en": {
+              "text": "self-portrait"
+            },
+            "es": {
+              "text": "autorretrato",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "autoportrait"
+            }
+          }
+        },
+        {
+          "text": "av sig själv",
+          "translations": {
+            "de": {
+              "text": "von selber"
+            },
+            "en": {
+              "text": "all by itself"
+            },
+            "es": {
+              "text": "por sí mismo"
+            },
+            "fr": [
+              {
+                "text": "tout seul"
+              },
+              {
+                "text": "de soi-même"
+              },
+              {
+                "text": "spontanément"
+              }
+            ]
+          }
+        },
+        {
+          "text": "det säger sig självt",
+          "translations": {
+            "de": {
+              "text": "das ist offensichtlich"
+            },
+            "en": [
+              {
+                "text": "it goes without saying"
+              },
+              {
+                "text": "obviously"
+              },
+              {
+                "text": "needless to say"
+              }
+            ],
+            "es": {
+              "text": "es evidente"
+            },
+            "fr": {
+              "text": "cela va sans dire"
+            }
+          }
+        },
+        {
+          "text": "i själva verket",
+          "translations": {
+            "de": {
+              "text": "eigentlich"
+            },
+            "en": {
+              "text": "in reality"
+            },
+            "es": {
+              "text": "en realidad"
+            },
+            "fr": [
+              {
+                "text": "a vrai dire"
+              },
+              {
+                "text": "en réalité"
+              },
+              {
+                "text": "de fait"
+              }
+            ]
+          }
+        },
+        {
+          "text": "självaste (kungen)",
+          "translations": {
+            "de": {
+              "text": "(der König) höchstpersönlich"
+            },
+            "en": {
+              "text": "(the king) himself"
+            },
+            "es": {
+              "text": "el mismo (rey)"
+            },
+            "fr": {
+              "text": "(le roi) en personne"
+            }
+          }
+        },
+        {
+          "text": "överträffar sig själv",
+          "translations": {
+            "de": {
+              "text": "sich selbst übertreffen"
+            },
+            "en": {
+              "text": "to outdo oneself"
+            },
+            "es": {
+              "text": "superarse a uno/-na mismo/-ma"
+            },
+            "fr": {
+              "text": "se surpasser"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00020875",
+      "definition": "ensam",
+      "register": "informal",
+      "translations": {
+        "de": [
+          {
+            "text": "alleine"
+          },
+          {
+            "text": "einsam"
+          }
+        ],
+        "en": [
+          {
+            "text": "alone"
+          },
+          {
+            "text": "by oneself"
+          }
+        ],
+        "es": {
+          "text": "solo/-la"
+        },
+        "fr": [
+          {
+            "text": "seul"
+          },
+          {
+            "text": "solo"
+          },
+          {
+            "text": "tranquille"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "De frågade om han ville vara med och spela kort, men han ville helst vara själv.",
+          "translations": {
+            "de": {
+              "text": "Sie fragten, ob er mit ihnen Karten spielen wollte, aber er wollte alleine sein."
+            },
+            "en": {
+              "text": "They asked him if he wanted to join them and play cards, but he said that he would rather be by himself."
+            },
+            "es": {
+              "text": "Le preguntaron si quería jugar a las cartas con ellos, pero él prefería estar solo."
+            },
+            "fr": {
+              "text": "Ils lui ont demandé si lui aussi voulait jouer aux cartes, mais il préférait rester tranquille."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

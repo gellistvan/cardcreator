@@ -1,0 +1,233 @@
+{
+  "id": "SV_DE00010700",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "kvinna",
+    "pronunciation": {
+      "value": "²kvịn:a"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "kvinnan",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "kvinnor",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "kvinnorna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00012944",
+      "definition": "vuxen person av honkön",
+      "antonyms": [
+        "man"
+      ],
+      "translations": {
+        "de": {
+          "text": "Frau",
+          "gender": "feminine"
+        },
+        "en": [
+          {
+            "text": "woman"
+          },
+          {
+            "text": "female"
+          }
+        ],
+        "es": {
+          "text": "mujer",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "femme",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Soldaterna skonade inte ens kvinnor och barn.",
+          "translations": {
+            "de": {
+              "text": "Die Soldaten verschonten nicht einmal Frauen und Kinder."
+            },
+            "en": {
+              "text": "The soldiers did not even spare women and children."
+            },
+            "es": {
+              "text": "Los soldados no perdonaron ni siquiera a las mujeres y niños."
+            },
+            "fr": {
+              "text": "Les soldats n'ont même pas épargné les femmes et les enfants."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "kvinno|ideal",
+          "translations": {
+            "de": {
+              "text": "Frauenideal",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "ideal of women"
+            },
+            "es": {
+              "text": "ideal de mujer",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "idéal féminin",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "kvinno|plagg",
+          "translations": {
+            "de": {
+              "text": "Damenbekleidungsstück",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "woman's garment"
+            },
+            "es": {
+              "text": "prenda de vestir de mujer",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "vêtement féminin",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "kvinno|syn",
+          "translations": {
+            "de": {
+              "text": "Frauenbild",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "view of women"
+            },
+            "es": {
+              "text": "actitud frente a la mujer",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "image de la femme",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "affärs|kvinna",
+          "translations": {
+            "de": {
+              "text": "Geschäftsfrau",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "businesswoman"
+            },
+            "es": {
+              "text": "mujer de negocios",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "femme d'affaires",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "yrkes|kvinna",
+          "translations": {
+            "de": {
+              "text": "berufstätige Frau",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "working woman"
+            },
+            "es": {
+              "text": "(mujer) profesional",
+              "gender": "(f) f"
+            },
+            "fr": {
+              "text": "professionnelle",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00012945",
+      "definition": "älskarinna",
+      "translations": {
+        "de": {
+          "text": "Flamme",
+          "gender": "feminine"
+        },
+        "en": [
+          {
+            "text": "(female) lover/partner"
+          },
+          {
+            "text": "girlfriend"
+          }
+        ],
+        "es": {
+          "text": "amante",
+          "gender": "feminine"
+        },
+        "fr": [
+          {
+            "text": "maîtresse",
+            "gender": "feminine"
+          },
+          {
+            "text": "compagne",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han kom till festen med sin nya kvinna.",
+          "translations": {
+            "de": {
+              "text": "Er kam zum Fest mit seiner neuen Flamme."
+            },
+            "en": {
+              "text": "He came to the party with his new girlfriend."
+            },
+            "es": {
+              "text": "Acudió a la fiesta con su nueva amante."
+            },
+            "fr": {
+              "text": "Il est arrivé à la fête avec sa nouvelle compagne."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00004514",
+      "language": "sv",
+      "headword": {
+        "text": "etnisk",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00005370",
+          "definition": "som har att göra med minoriteter och deras kultur"
+        }
+      ]
+    }
+  ]
+}

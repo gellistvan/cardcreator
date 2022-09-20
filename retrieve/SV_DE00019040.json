@@ -1,0 +1,189 @@
+{
+  "id": "SV_DE00019040",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "status",
+    "pronunciation": {
+      "value": "stạ:tus"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "statusen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00023113",
+      "definition": "tillstånd (1), ställning (2)",
+      "translations": {
+        "de": {
+          "text": "Status",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "status"
+          },
+          {
+            "text": "position"
+          },
+          {
+            "text": "rank"
+          },
+          {
+            "text": "condition"
+          }
+        ],
+        "es": [
+          {
+            "text": "condición",
+            "gender": "feminine"
+          },
+          {
+            "text": "categoría",
+            "gender": "feminine"
+          },
+          {
+            "text": "posición",
+            "gender": "feminine"
+          }
+        ],
+        "fr": [
+          {
+            "text": "statut",
+            "gender": "masculine"
+          },
+          {
+            "text": "position",
+            "gender": "feminine"
+          },
+          {
+            "text": "situation",
+            "gender": "feminine"
+          },
+          {
+            "text": "état",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han hade uniform och fick därför status som krigsfånge.",
+          "translations": {
+            "de": {
+              "text": "Er hatte eine Uniform und bekam deshalb den Status als Kriegsgefangener."
+            },
+            "en": {
+              "text": "He had a uniform and therefore received status as a prisoner of war."
+            },
+            "es": {
+              "text": "Llevaba uniforme y, por lo tanto, se le dio la categoría de prisionero de guerra."
+            },
+            "fr": {
+              "text": "Il portait l'uniforme, moyennant quoi il a bénéficié du statut de prisonnier de guerre."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00023114",
+      "definition": "(högt) socialt anseende",
+      "translations": {
+        "de": {
+          "text": "Status",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "(high social) status"
+        },
+        "es": [
+          {
+            "text": "posición social",
+            "gender": "feminine"
+          },
+          {
+            "text": "estatus social",
+            "gender": "masculine"
+          }
+        ],
+        "fr": [
+          {
+            "text": "statut (social)",
+            "gender": "masculine"
+          },
+          {
+            "text": "rang (social)",
+            "gender": "masculine"
+          },
+          {
+            "text": "prestige",
+            "gender": "masculine"
+          },
+          {
+            "text": "standing",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Läkaryrket har hög status.",
+          "translations": {
+            "de": {
+              "text": "Der Ärzteberuf genießt einen hohen Status."
+            },
+            "en": {
+              "text": "The profession of doctor carries a high status."
+            },
+            "es": {
+              "text": "La profesión médica tiene un alto estatus social."
+            },
+            "fr": {
+              "text": "Le métier de professeur bénéficie d'un statut élevé."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "status|symbol",
+          "translations": {
+            "de": {
+              "text": "Statussymbol",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "status symbol"
+            },
+            "es": {
+              "text": "signo de estatus social",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "marque de standing",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00021743",
+      "language": "sv",
+      "headword": {
+        "text": "ungdom",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00026464",
+          "definition": "den tid då man är ung"
+        },
+        {
+          "id": "SV_SE00026465",
+          "definition": "ung människa"
+        }
+      ]
+    }
+  ]
+}

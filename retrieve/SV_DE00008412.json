@@ -1,0 +1,164 @@
+{
+  "id": "SV_DE00008412",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "identitet",
+    "pronunciation": {
+      "value": "identitẹ:t"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "identiteten",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "identiteter",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "identiteterna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00010132",
+      "definition": "vem eller vad någon eller något är",
+      "translations": {
+        "de": {
+          "text": "Identität",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "identity"
+        },
+        "es": {
+          "text": "identidad",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "identité",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Du måste styrka din identitet för att få ut pengarna!",
+          "translations": {
+            "de": {
+              "text": "Du muss deine Identität durch einen Ausweis belegen können und das Geld zu bekommen."
+            },
+            "en": {
+              "text": "You must confirm your identity in order to take out the money!"
+            },
+            "es": {
+              "text": "Tienes que acreditar tu identidad para sacar dinero."
+            },
+            "fr": {
+              "text": "Vous devez justifier de votre identité pour retirer l'argent !"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "identitets|handling",
+          "translations": {
+            "de": {
+              "text": "Ausweis",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "identification papers/documents"
+            },
+            "es": {
+              "text": "documentación",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "justificatif d'identité",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "identitets|kris",
+          "translations": {
+            "de": {
+              "text": "Identitätskrise",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "identity crisis"
+            },
+            "es": {
+              "text": "crisis de identidad",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "crise d'identité",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00010133",
+      "definition": "särart",
+      "translations": {
+        "de": {
+          "text": "Identität",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "identity"
+        },
+        "es": {
+          "text": "identidad",
+          "gender": "feminine"
+        },
+        "fr": [
+          {
+            "text": "identité",
+            "gender": "feminine"
+          },
+          {
+            "text": "caractère unique",
+            "gender": "masculine"
+          },
+          {
+            "text": "spécificité",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "För många emigranter är det svårt att bevara sin nationella identitet.",
+          "translations": {
+            "de": {
+              "text": "Für viele Auswanderer ist es schwer ihre nationale Identität zu behalten."
+            },
+            "en": {
+              "text": "For many emigrants, it is difficult to preserve their national identity."
+            },
+            "es": {
+              "text": "A muchos emigrantes les resulta difícil mantener su identidad nacional."
+            },
+            "fr": {
+              "text": "Pour beaucoup d'émigrants, il est difficile de conserver son identité nationale."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

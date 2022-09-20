@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00005577",
+      "language": "sv",
+      "headword": {
+        "text": "frånvarande",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00006679",
+          "definition": "inte närvarande, borta"
+        },
+        {
+          "id": "SV_SE00006680",
+          "definition": "inte närvarande i tankarna, tankspridd"
+        }
+      ]
+    }
+  ]
+}

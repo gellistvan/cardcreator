@@ -1,0 +1,112 @@
+{
+  "id": "SV_DE00011929",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "manlig",
+    "pronunciation": {
+      "value": "²mạn:lig"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "manligt",
+        "gender": "neuter"
+      },
+      {
+        "text": "manliga",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014512",
+      "definition": "som har att göra med män; som utgörs av män",
+      "translations": {
+        "de": {
+          "text": "männlich"
+        },
+        "en": [
+          {
+            "text": "manly"
+          },
+          {
+            "text": "male"
+          }
+        ],
+        "es": {
+          "text": "masculino/-na"
+        },
+        "fr": [
+          {
+            "text": "mâle"
+          },
+          {
+            "text": "masculin/-ine"
+          },
+          {
+            "text": "viril/-ile"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Manlig och kvinnlig personal.",
+          "translations": {
+            "de": {
+              "text": "männliches und weibliches Personal"
+            },
+            "en": {
+              "text": "Male and female personnel."
+            },
+            "es": {
+              "text": "personal masculino y femenino"
+            },
+            "fr": {
+              "text": "personnel masculin et féminin"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014513",
+      "definition": "som anses typisk eller lämplig för en man",
+      "translations": {
+        "de": {
+          "text": "männlich"
+        },
+        "en": {
+          "text": "manly"
+        },
+        "es": {
+          "text": "masculino/-na"
+        },
+        "fr": {
+          "text": "masculin/-ine"
+        }
+      },
+      "examples": [
+        {
+          "text": "ett manligt utseende",
+          "translations": {
+            "de": {
+              "text": "ein männliches Aussehen"
+            },
+            "en": {
+              "text": "a manly appearance"
+            },
+            "es": {
+              "text": "un aspecto masculino"
+            },
+            "fr": {
+              "text": "une apparence masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

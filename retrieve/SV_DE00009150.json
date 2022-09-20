@@ -1,0 +1,50 @@
+{
+  "id": "SV_DE00009150",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "junior",
+    "pronunciation": {
+      "value": "juniạ̊:r"
+    },
+    "pos": "noun",
+    "homograph_number": 1,
+    "inflections": [
+      {
+        "text": "junioren",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "juniorer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "juniorerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00011002",
+      "definition": "ung (inte vuxen) medlem av en idrottsförening",
+      "antonyms": [
+        "senior"
+      ],
+      "examples": [
+        {
+          "text": "Han spelar i juniorlag."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "junior|lag"
+        }
+      ]
+    }
+  ]
+}

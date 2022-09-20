@@ -1,0 +1,72 @@
+{
+  "id": "SV_DE00008563",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "individ",
+    "pronunciation": {
+      "value": "indivị:d"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "individen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "individer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "individerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00010310",
+      "definition": "enskild varelse, människa",
+      "translations": {
+        "de": {
+          "text": "Individuum",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "individual"
+        },
+        "es": {
+          "text": "individuo",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "individu",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "En skum individ smög omkring i parken.",
+          "translations": {
+            "de": {
+              "text": "Ein komisches Individuum schlich sich im Park herum."
+            },
+            "en": {
+              "text": "A shady individual was sneaking around in the park."
+            },
+            "es": {
+              "text": "Un individuo sospechoso rondaba por el parque."
+            },
+            "fr": {
+              "text": "Un individu louche se faufilait dans le parc."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

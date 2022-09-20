@@ -1,0 +1,96 @@
+{
+  "id": "SV_DE00004514",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "etnisk",
+    "pronunciation": {
+      "value": "ẹt:nisk"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "etniskt",
+        "gender": "neuter"
+      },
+      {
+        "text": "etniska",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00005370",
+      "definition": "som har att göra med minoriteter och deras kultur",
+      "translations": {
+        "de": {
+          "text": "ethnisch"
+        },
+        "en": {
+          "text": "ethnic"
+        },
+        "es": {
+          "text": "étnico/-ca"
+        },
+        "fr": {
+          "text": "ethnique"
+        }
+      },
+      "examples": [
+        {
+          "text": "etnisk musik",
+          "translations": {
+            "de": {
+              "text": "ethnische Musik"
+            },
+            "en": {
+              "text": "ethnic music"
+            },
+            "es": {
+              "text": "música étnica"
+            },
+            "fr": {
+              "text": "musique ethnique"
+            }
+          }
+        },
+        {
+          "text": "en etnisk restaurang",
+          "translations": {
+            "de": {
+              "text": "ein ethnisches Restaurant"
+            },
+            "en": {
+              "text": "an ethnic restaurant"
+            },
+            "es": {
+              "text": "un restaurante étnico"
+            },
+            "fr": {
+              "text": "un restaurant ethnique"
+            }
+          }
+        },
+        {
+          "text": "etniska konflikter",
+          "translations": {
+            "de": {
+              "text": "ethnische Konflikte"
+            },
+            "en": {
+              "text": "ethnic conflicts"
+            },
+            "es": {
+              "text": "conflictos étnicos"
+            },
+            "fr": {
+              "text": "des conflits ethniques"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

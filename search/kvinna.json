@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00010700",
+      "language": "sv",
+      "headword": {
+        "text": "kvinna",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00012944",
+          "definition": "vuxen person av honkön"
+        },
+        {
+          "id": "SV_SE00012945",
+          "definition": "älskarinna"
+        }
+      ]
+    }
+  ]
+}

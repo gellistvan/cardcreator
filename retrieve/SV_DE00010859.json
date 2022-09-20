@@ -1,0 +1,202 @@
+{
+  "id": "SV_DE00010859",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "kön",
+    "pronunciation": {
+      "value": "çö:n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "könet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "kön",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "könen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00013160",
+      "definition": "egenskapen att vara man eller kvinna (hane eller hona)",
+      "translations": {
+        "de": {
+          "text": "Geschlecht",
+          "gender": "neuter"
+        },
+        "en": [
+          {
+            "text": "gender"
+          },
+          {
+            "text": "sex"
+          }
+        ],
+        "es": [
+          {
+            "text": "sexo",
+            "gender": "masculine"
+          },
+          {
+            "text": "género",
+            "gender": "masculine"
+          }
+        ],
+        "fr": [
+          {
+            "text": "sexe",
+            "gender": "masculine"
+          },
+          {
+            "text": "genre",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "kvinnligt kön",
+          "translations": {
+            "de": {
+              "text": "weibliche Geschlecht"
+            },
+            "en": {
+              "text": "female sex"
+            },
+            "es": {
+              "text": "sexo femenino"
+            },
+            "fr": {
+              "text": "sexe féminin"
+            }
+          }
+        },
+        {
+          "text": "manligt kön",
+          "translations": {
+            "de": {
+              "text": "männliches Geschlecht"
+            },
+            "en": {
+              "text": "male sex"
+            },
+            "es": {
+              "text": "sexo masculino"
+            },
+            "fr": {
+              "text": "sexe masculin"
+            }
+          }
+        },
+        {
+          "text": "Vi ser gärna sökande av båda könen!",
+          "translations": {
+            "de": {
+              "text": "Wir möchten Bewerber beider Geschlechter haben."
+            },
+            "en": {
+              "text": "We are gladly accepting applicants from both genders!"
+            },
+            "es": {
+              "text": "Recibimos encantados aspirantes de ambos sexos."
+            },
+            "fr": {
+              "text": "Nous accueillons volontiers les candidatures des deux sexes."
+            }
+          }
+        },
+        {
+          "text": "I Sverige får två personer av samma kön gifta sig.",
+          "translations": {
+            "de": {
+              "text": "In Schweden dürfen zwei Personen desselben Geschlechts heiraten."
+            },
+            "en": {
+              "text": "In Sweden, two people of the same gender may marry one another."
+            },
+            "es": {
+              "text": "En Suecia dos personas del mismo sexo pueden casarse."
+            },
+            "fr": {
+              "text": "En Suède, deux personnes du même sexe peuvent se marier ensemble."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "köns|cell",
+          "translations": {
+            "de": {
+              "text": "Geschlechtszelle",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "gamete (sex cell)"
+            },
+            "es": {
+              "text": "gameto",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "gamète",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "köns|kvotering",
+          "translations": {
+            "de": {
+              "text": "Geschlechterquotenregelung",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "gender quota"
+            },
+            "es": {
+              "text": "asignación de cupos equitativa entre sexos",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "contingentement selon le sexe",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "köns|tillhörighet",
+          "translations": {
+            "de": {
+              "text": "Geschlechtszugehörigkeit",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "gender (category) one belongs to"
+            },
+            "es": {
+              "text": "sexo",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "identité de genre",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

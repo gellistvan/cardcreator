@@ -1,0 +1,37 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00009150",
+      "language": "sv",
+      "headword": {
+        "text": "junior",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00011002",
+          "definition": "ung (inte vuxen) medlem av en idrottsförening"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00009151",
+      "language": "sv",
+      "headword": {
+        "text": "junior",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00011003",
+          "definition": "den yngre (om son i motsats till far)"
+        }
+      ]
+    }
+  ]
+}

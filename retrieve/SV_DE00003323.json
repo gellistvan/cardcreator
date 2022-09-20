@@ -1,0 +1,375 @@
+{
+  "id": "SV_DE00003323",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "dam",
+    "pronunciation": {
+      "value": "da:m"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "damen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "damer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "damerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00003900",
+      "definition": "kvinna",
+      "translations": {
+        "de": {
+          "text": "Dame",
+          "gender": "feminine"
+        },
+        "en": [
+          {
+            "text": "woman"
+          },
+          {
+            "text": "lady"
+          }
+        ],
+        "es": {
+          "text": "dama",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "dame",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "en fin dam",
+          "translations": {
+            "de": {
+              "text": "eine elegante Dame"
+            },
+            "en": {
+              "text": "a fine lady"
+            },
+            "es": {
+              "text": "una dama distinguida"
+            },
+            "fr": {
+              "text": "une dame distinguée"
+            }
+          }
+        },
+        {
+          "text": "en äldre dam",
+          "translations": {
+            "de": {
+              "text": "eine ältere Dame"
+            },
+            "en": {
+              "text": "an older lady"
+            },
+            "es": {
+              "text": "una señora mayor"
+            },
+            "fr": {
+              "text": "une dame d'un certain âge"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "dam|fotboll",
+          "translations": {
+            "de": {
+              "text": "Frauenfußball",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "women's soccer"
+            },
+            "es": {
+              "text": "fútbol femenino",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "football féminin",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "dam|konfektion",
+          "translations": {
+            "de": {
+              "text": "Damenbekleidung",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "women's wear"
+            },
+            "es": {
+              "text": "ropa de señora",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "prêt-à-porter féminin",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "dam|lag",
+          "translations": {
+            "de": {
+              "text": "Frauenmannschaft",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "women's team"
+            },
+            "es": {
+              "text": "equipo femenino",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "équipe féminine",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "dam|toalett",
+          "translations": {
+            "de": {
+              "text": "Damentoilette",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "women's restroom"
+            },
+            "es": {
+              "text": "aseo de señoras",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "toilettes pour dames",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "dam|väska",
+          "translations": {
+            "de": {
+              "text": "Frauenhandtasche",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "purse"
+            },
+            "es": {
+              "text": "bolso de señora",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "sac à main",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "bords|dam",
+          "translations": {
+            "de": {
+              "text": "Tischdame",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "(female) dinner partner"
+            },
+            "es": {
+              "text": "compañera de mesa",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "voisine de table",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00003901",
+      "senses": [
+        {
+          "id": "SV_SE00003902",
+          "definition": "ett högt spelkort",
+          "translations": {
+            "de": {
+              "text": "Dame",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "queen"
+            },
+            "es": {
+              "text": "dama",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "dame",
+              "gender": "feminine"
+            }
+          },
+          "examples": [
+            {
+              "text": "spader dam",
+              "translations": {
+                "de": {
+                  "text": "Pik Dame"
+                },
+                "en": {
+                  "text": "queen of spades"
+                },
+                "es": {
+                  "text": "dama de picas"
+                },
+                "fr": {
+                  "text": "dame de pique"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV_SE00003903",
+          "definition": "en värdefull schackpjäs, drottning",
+          "translations": {
+            "de": {
+              "text": "Dame",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "queen"
+            },
+            "es": [
+              {
+                "text": "reina",
+                "gender": "feminine"
+              },
+              {
+                "text": "dama",
+                "gender": "feminine"
+              }
+            ],
+            "fr": [
+              {
+                "text": "dame",
+                "gender": "feminine"
+              },
+              {
+                "text": "reine",
+                "gender": "feminine"
+              }
+            ]
+          },
+          "examples": [
+            {
+              "text": "Han offrade damen och satte matt.",
+              "translations": {
+                "de": {
+                  "text": "Er opferte seine Dame, was zum Schachmatt des Gegners führte."
+                },
+                "en": {
+                  "text": "He sacrificed the queen to produce mate."
+                },
+                "es": {
+                  "text": "Sacrificó la reina e hizo jaque mate."
+                },
+                "fr": {
+                  "text": "Il a sacrifié sa dame et a fait échec et mat."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00003904",
+      "definition": "ett spel med brickor på schackbräde",
+      "translations": {
+        "de": {
+          "text": "Damespiel",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "checkers"
+        },
+        "es": {
+          "text": "damas",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "jeu de dames",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Vi spelade dam på ballkongen.",
+          "translations": {
+            "de": {
+              "text": "Wir haben auf dem Balkon Dame gespielt."
+            },
+            "en": {
+              "text": "We played checkers on the balcony."
+            },
+            "es": {
+              "text": "Jugamos a las damas en el balcón."
+            },
+            "fr": {
+              "text": "Nous avons joué aux dames sur le balcon."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "dam|spel",
+          "translations": {
+            "de": {
+              "text": "Damespiel",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "checkers"
+            },
+            "es": {
+              "text": "juego de damas",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "jeu de dames",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,46 @@
+frånvaro	távollét, hiányzás	En ny lärare utsågs under hans frånvaro.
+vuxen	felnőtt	Barn kan komma med en vuxen.
+ålder [ạ̊l:der]	kor	Flickans ålder är okänd.
+född	született	Han föddes i Tyskland.
+pojke	fiú	Pojkarnas toalett ligger mittemot flickorna.
+kvinnlig	nőnemű, női	De kvinnliga bebisarna får rosa filtar.
+herre	úr(iember), férfi	Herren tog av sig kappan och överlämnade den till damen.
+flicka	lány	Mitt yngsta barn är en tjej.
+identifiera	azonosít; felismer	Flickan identifierade pälsen som hennes.
+enskild, individ	egyén; személyi-ség	En bra lärare behandlar elever som individer.
+barn, unge	gyerek	Barnen tycker om att besöka djurparken.
+dam	hölgy, asszony, nő	Damen i banken sa hej till flickan.
+manlig	hímnemű; férfi, fiú	Det finns fler manliga studenter än kvinnliga i klassen.
+man	férfi; ember	Mannen är motsatsen till kvinnan.
+namn	név	Har du samma namn som en av dina föräldrar?
+person, människa 	személy; ember	Endast en person i taget får komma in i rummet.
+kön	nem	Nu kan du ta reda på könet på ditt barn innan det föddes.
+status	helyzet, státusz	Hennes status i samhället förändrades efter att hon hade skrivit en bok.
+titel	társadalmi cím	Han använder titeln "Sir" före sitt namn.
+kvinna	nő, asszony	Den gamla mannen gifte sig med en ung kvinna.
+ungdom	ifjúkor; fiatalság	Han lärde sig visdom i sin ungdom så att han kunde fatta bättre beslut som vuxen.
+frånvarande	hiányzó, távol maradó	Två elever var frånvarande igår.
+födelsedag	születésnap	Min födelsedag är den 22 juni.
+kompis 	haver, barát	John är en mycket vänlig kompis.
+döv	siket	Om du inte kan höra är du döv.
+hertig	herceg	En hertig är en man med mycket hög rang, precis under kungen eller drottningen.
+greve	gróf	En greve är en man med hög social rang som reglerar territorium för kungen.
+etnisk	nemzetiségi, nép¬	Kulturfestivalen firade en mängd olika etniska ursprung.
+kille	fickó, pasas	Den killen är en fantastisk fotbollsspelare.
+kvinna 	nőnemű; nő	De flesta av kockarna är kvinnor på detta hotell.
+kön	nem, nemű	Vet du vilket kön barnet är?
+identifiering	azonosítás, személyazonosítóokirat	Kan jag se någon identifiering, snälla?
+identitet	identitás, önazonosság	Under tonåren ifrågasatte han sin identitet.
+spädbarn	kisgyermek, csecsemő	Denna produkt är inte lämplig för spädbarn.
+junior	fiatal, fiatalabb, kezdő, junior	Företaget tar en ny junioranställd.
+pojke	fiú, fiatalember	En grupp pojkar spelade fotboll på gatan.
+man	férfi	Enligt undersökningen tjänar män mer än kvinnor.
+själv	önmaga, az énje	Jag tror att ett jobb ger en person en självkänsla.
+älder	idősebb, feljebb-való, végzős	Endast äldre elever får gå ut vid lunchtid.
+signatur	aláírás	Alla har en unik signatur.
+efternamn	vezetéknév	Andersson är ett mycket vanligt efternamn.
+tonåring	tizenéves, tinédzser	Det kan vara mycket svårt att prata med tonåringar ibland.
+unge	gyerkőc, kamasz	Hans unge går på den lokala grundskolan.
 att baka	süt	Kan du hjälpa mig att baka en tårta till min väns fest?
 att bita	harap	Han bet i äpplet.
 att koka	forral	Jag ska bara koka lite vatten och ta en kopp te.

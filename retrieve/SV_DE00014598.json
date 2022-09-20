@@ -1,0 +1,55 @@
+{
+  "id": "SV_DE00014598",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "person",
+    "pronunciation": {
+      "value": "pär‿sọ:n"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "personen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "personer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "personerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00017681",
+      "definition": "människa, individ",
+      "examples": [
+        {
+          "text": "Salen rymmer 30 personer."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "försöks|person"
+        },
+        {
+          "text": "huvud|person"
+        },
+        {
+          "text": "privat|person"
+        },
+        {
+          "text": "juridisk person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00021747",
+      "language": "sv",
+      "headword": {
+        "text": "unge",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00026470",
+          "definition": "barn"
+        },
+        {
+          "id": "SV_SE00026471",
+          "definition": "avkomma till djur"
+        }
+      ]
+    }
+  ]
+}
