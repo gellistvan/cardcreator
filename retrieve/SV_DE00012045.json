@@ -1,0 +1,174 @@
+{
+  "id": "SV_DE00012045",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "mat",
+    "pronunciation": {
+      "value": "ma:t"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "maten",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014661",
+      "definition": "näringsämnen som man äter, föda",
+      "translations": {
+        "de": {
+          "text": "Essen",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "food"
+        },
+        "es": {
+          "text": "comida",
+          "gender": "feminine"
+        },
+        "fr": [
+          {
+            "text": "nourriture",
+            "gender": "feminine"
+          },
+          {
+            "text": "aliment",
+            "gender": "masculine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "mat och dryck",
+          "translations": {
+            "de": {
+              "text": "Essen und Getränke"
+            },
+            "en": {
+              "text": "food and drink"
+            },
+            "es": {
+              "text": "comida y bebida"
+            },
+            "fr": {
+              "text": "le boire et le manger"
+            }
+          }
+        },
+        {
+          "text": "Han stod i köket och lagade mat.",
+          "translations": {
+            "de": {
+              "text": "Er stand in der Küche und machte das Essen."
+            },
+            "en": {
+              "text": "He stood in the kitchen and prepared some food."
+            },
+            "es": {
+              "text": "Estaba en la cocina preparando la comida."
+            },
+            "fr": {
+              "text": "Il faisait à manger dans la cuisine."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "mat|bord",
+          "translations": {
+            "de": {
+              "text": "Esstisch",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "dinner table"
+            },
+            "es": {
+              "text": "mesa de comedor",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "table à manger",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014662",
+      "definition": "måltid",
+      "translations": {
+        "de": {
+          "text": "Essen",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "meal"
+        },
+        "es": {
+          "text": "comida",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "repas",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Barnen måste tvätta händerna före maten.",
+          "translations": {
+            "de": {
+              "text": "Die Kinder müssen sich die Hände vorm Essen waschen."
+            },
+            "en": {
+              "text": "The children have to wash their hands before the meal."
+            },
+            "es": {
+              "text": "Los niños tenían que lavarse las manos antes de la comida."
+            },
+            "fr": {
+              "text": "Les enfants doivent se laver les mains avant de manger."
+            }
+          }
+        },
+        {
+          "text": "Mitt i maten ringde telefonen.",
+          "translations": {
+            "de": {
+              "text": "Während des Essens klingelte das Telefon."
+            },
+            "en": {
+              "text": "In the middle of the meal, the phone rang."
+            },
+            "es": {
+              "text": "En medio de la comida sonó el teléfono."
+            },
+            "fr": {
+              "text": "Au milieu du repas, le téléphone a sonné."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

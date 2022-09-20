@@ -1,5 +1,13 @@
 import sys, json, os, requests
 
+
+proxy = 'http://10.66.243.130:8080'
+
+#os.environ['http_proxy'] = proxy
+#os.environ['HTTP_PROXY'] = proxy
+#os.environ['https_proxy'] = proxy
+#os.environ['HTTPS_PROXY'] = proxy
+
 headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Encoding": "gzip, deflate, br",
@@ -42,7 +50,7 @@ def read_entries(path):
         input_file = input.readlines()
         for line in input_file:
             values = line.split('\t')
-            cards.append((values[1], (values[0], values[2]) ))
+            cards.append((values[0], (values[1], values[2]) ))
     return cards
 
 def generate_pdf(cards, pages, output):
@@ -54,10 +62,10 @@ def generate_pdf(cards, pages, output):
                 output.write("<tr>\n")
                 for item in range(4):
                     index = page*16 + line *4 + item
-                    output.write("<td><div class=\"article\">")
+                    output.write("<td><div class=\"article\"><b>")
                     if index < len(cards):
                         output.write(cards[index][0])
-                    output.write("</div></td>\n")
+                    output.write("</b></div></td>\n")
                 output.write("</tr>\n")
             output.write("</table>\n")
 
@@ -68,30 +76,76 @@ def generate_pdf(cards, pages, output):
                     index = page*16 + line *4 + 3 - item
                     output.write("<td>")
                     if index < len(cards):
-                        output.write("<div class=\"title\">")
+                        output.write("<div class=\"title\"><b>")
                         output.write(cards[index][1][0])
+                        output.write("</b>")
+                        if len(cards[index][1][1]) > 0:
+                            if len(cards[index][1][0]) >7:
+                                output.write("<br />")
+                            output.write("<span class=\"pron\"> [")
+                            output.write(cards[index][1][1])
+                            output.write("]</span>")
                         output.write("</div><div class=\"definition\">")
-                        output.write(cards[index][1][1])
+
+                        output.write(cards[index][1][2])
                         output.write("</div>\n")
                     output.write("</td>\n")
                 output.write("</tr>\n")
             output.write("</table>\n")
         output.write("</body> </html>\n")
 
+def get_pronunciation(term):
+    ett = term.startswith("ett ")
+    verb = term.startswith("att ")
+    if ett or verb:
+        term = term[4:]
+    result = json.loads(search(term))
+    num_results = int(result["n_results"])
+    pron = []
+    if num_results > 0:
+        for res in result["results"]:
+            id = res["id"]
+            #for sense in res["senses"]:
+            #    print(sense["definition"])
+            pos = res["headword"]["pos"]
+            if num_results > 1 and ((verb and pos!="verb") or (ett and pos != "noun")):
+                print ("Skipping search result [" + res["headword"]["text"] + "] for search term [" + term +"]")
+                continue
+
+            item = json.loads(retrive(id))
+            pron.append(item["headword"]["pronunciation"]["value"])
+    else:
+        print("Entry [" + term + "] not found")
+
+    # print (term + " [" + ", ".join(pron) + "]")
+    return (term, ", ".join(pron))
+
+def preprocess_cards(cards):
+    result = []
+    for card in cards:
+        terms = [x.strip().lower() for x in card[0].split(',')]
+        if len(terms) == 1:
+             p = get_pronunciation(terms[0])
+             result.append((card[1][0], (p[0], p[1], card[1][1])))
+        else:
+            main_terms = []
+            pronounciations = []
+            for term in terms:
+                (t, p) = get_pronunciation(term)
+                main_terms.append(t)
+                pronounciations.append(p)
+            result.append((card[1][0], (", ".join(main_terms), ", ".join(pronounciations), card[1][1])))
+
+    return result
+
 def process_list(input):
     cards = read_entries(input)
+    cards = preprocess_cards(cards)
     pages = int(len(cards) / 16)  + (0 if len(cards)%16==0 else 1)
     generate_pdf(cards, pages, "./output_" + input + ".html")
 
 process_list(sys.argv[1])
 
-result = json.loads(search("fönster"))
-num_results = int(result["n_results"])
-for res in result["results"]:
-    id = res["id"]
-    for sense in res["senses"]:
-        print(sense["definition"])
 
-    term = json.loads(retrive(id))
-    #print(term)
-    print(term["headword"]["pronunciation"]["value"])
+
+

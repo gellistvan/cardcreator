@@ -1,0 +1,77 @@
+{
+  "id": "SV_DE00007424",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "hacka",
+    "pronunciation": {
+      "value": "²hạk:a"
+    },
+    "pos": "verb",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "hackar",
+        "tense": "present"
+      },
+      {
+        "text": "hackade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "hackat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "hackad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "hacka",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00008931",
+      "definition": "bearbetar med hacka; delar i mindre bitar, gör hack",
+      "range_of_application": "ngn hackar ngt",
+      "examples": [
+        {
+          "text": "hackad lök"
+        },
+        {
+          "text": "hackad persilja"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "fin|hackar"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00008932",
+      "definition": "stammar; talar osäkert",
+      "sentiment": "figurative",
+      "range_of_application": "ngn hackar",
+      "examples": [
+        {
+          "text": "Talaren stod och hackade."
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00008933",
+      "definition": "kritiserar hela tiden",
+      "range_of_application": "ngn hackar på ngn",
+      "examples": [
+        {
+          "text": "Han hackar alltid på sin lillebror."
+        }
+      ]
+    }
+  ]
+}

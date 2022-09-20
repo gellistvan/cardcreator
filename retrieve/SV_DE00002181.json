@@ -1,0 +1,119 @@
+{
+  "id": "SV_DE00002181",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "bita",
+    "pronunciation": {
+      "value": "bị:ta"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "biter",
+        "tense": "present"
+      },
+      {
+        "text": "bet",
+        "tense": "imperfect"
+      },
+      {
+        "text": "bitit",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "biten",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "bit",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00002522",
+      "definition": "sätter tänderna i något (t.ex. för att äta eller (om djur) attackera)",
+      "range_of_application": [
+        "ngn/ngt biter ngn",
+        "ngn/ngt biter i ngt"
+      ],
+      "translations": {
+        "de": {
+          "text": "beißen"
+        },
+        "en": {
+          "text": "to bite"
+        },
+        "es": {
+          "text": "morder"
+        },
+        "fr": [
+          {
+            "text": "mordre"
+          },
+          {
+            "text": "croquer"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon bet i äpplet.",
+          "translations": {
+            "de": {
+              "text": "Sie biss in den Apfel."
+            },
+            "en": {
+              "text": "She bit into the apple."
+            },
+            "es": {
+              "text": "Ella mordió la manzana."
+            },
+            "fr": {
+              "text": "Elle croqua la pomme."
+            }
+          }
+        },
+        {
+          "text": "Hunden bet honom i benet.",
+          "translations": {
+            "de": {
+              "text": "Der Hund hat ihn ins Bein gebissen."
+            },
+            "en": {
+              "text": "The dog bit him in the leg."
+            },
+            "es": {
+              "text": "El perro le mordió en la pierna."
+            },
+            "fr": {
+              "text": "Le chien lui a mordu la jambe."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "får något att bita i",
+          "translations": {
+            "de": {
+              "text": "etwas zwischen die Zähne bekommen"
+            },
+            "en": {
+              "text": "to have sth to bite into"
+            },
+            "es": {
+              "text": "poder incarle el diente a algo"
+            },
+            "fr": {
+              "text": "avoir de quoi s'occuper"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

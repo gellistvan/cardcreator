@@ -1,0 +1,101 @@
+{
+  "id": "SV_DE00020607",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "tillgodose",
+    "pronunciation": {
+      "value": "²til:gọ:dose:"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "tillgodoser",
+        "tense": "present"
+      },
+      {
+        "text": "tillgodosåg",
+        "tense": "imperfect"
+      },
+      {
+        "text": "tillgodosett",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "tillgodosedd",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "tillgodose",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00025082",
+      "definition": "tillfredsställer, sörjer för",
+      "range_of_application": "ngn/ngt tillgodoser ngt",
+      "translations": {
+        "de": [
+          {
+            "text": "gewährleisten"
+          },
+          {
+            "text": "befriedigen"
+          }
+        ],
+        "en": [
+          {
+            "text": "to meet the needs of"
+          },
+          {
+            "text": "to satisfy"
+          },
+          {
+            "text": "to supply"
+          }
+        ],
+        "es": [
+          {
+            "text": "satisfacer"
+          },
+          {
+            "text": "cubrir"
+          },
+          {
+            "text": "proveer"
+          }
+        ],
+        "fr": [
+          {
+            "text": "satisfaire"
+          },
+          {
+            "text": "pourvoir"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Samhället måste tillgodose äldre människors behov av vård.",
+          "translations": {
+            "de": {
+              "text": "Die Gesellschaft muss das Bedürfnis an Pflege der älteren Menschen befriedigen."
+            },
+            "en": {
+              "text": "Society must meet the needs of older people for care."
+            },
+            "es": {
+              "text": "La sociedad debe cubrir las necesidades asistenciales y sanitarias de las personas mayores."
+            },
+            "fr": {
+              "text": "Il faut que la société satisfasse aux besoins des personnes âgées en termes de soins."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

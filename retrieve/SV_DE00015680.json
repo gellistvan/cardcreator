@@ -1,0 +1,72 @@
+{
+  "id": "SV_DE00015680",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "recept",
+    "pronunciation": {
+      "value": "resẹp:t"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "receptet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "recept",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "recepten",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00018981",
+      "definition": "beställning av läkemedel som en läkare bestämt att en patient ska använda",
+      "examples": [
+        {
+          "text": "Hon skrev ut ett recept på penicillin."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "recept|belagd"
+        },
+        {
+          "text": "recept|fri"
+        },
+        {
+          "text": "recept|inlämning"
+        },
+        {
+          "text": "e-|recept"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00018982",
+      "definition": "beskrivning av hur man tillagar en maträtt",
+      "examples": [
+        {
+          "text": "Jag printade ut ett recept på köttfärssås."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "recept|samling"
+        },
+        {
+          "text": "köttbulls|recept"
+        }
+      ]
+    }
+  ]
+}

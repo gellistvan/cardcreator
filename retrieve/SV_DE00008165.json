@@ -1,0 +1,103 @@
+{
+  "id": "SV_DE00008165",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "hälla",
+    "pronunciation": {
+      "value": "hẹl:a"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "häller",
+        "tense": "present"
+      },
+      {
+        "text": "hällde",
+        "tense": "imperfect"
+      },
+      {
+        "text": "hällt",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "hälld",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "häll",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00009818",
+      "definition": "låter vätska rinna ur en behållare",
+      "range_of_application": "ngn häller (upp) ngt (i/på/ur ngt)",
+      "translations": {
+        "de": {
+          "text": "schütten"
+        },
+        "en": {
+          "text": "to pour"
+        },
+        "es": [
+          {
+            "text": "verter"
+          },
+          {
+            "text": "escanciar (licores)"
+          },
+          {
+            "text": "vaciar"
+          },
+          {
+            "text": "echar"
+          }
+        ],
+        "fr": {
+          "text": "verser"
+        }
+      },
+      "examples": [
+        {
+          "text": "Häll kaffet i koppen!",
+          "translations": {
+            "de": {
+              "text": "Schütte den Kaffee in die Tasse."
+            },
+            "en": {
+              "text": "Pour the coffee in the cup!"
+            },
+            "es": {
+              "text": "Echa el café en la taza."
+            },
+            "fr": {
+              "text": "Verse le café dans la tasse !"
+            }
+          }
+        },
+        {
+          "text": "Han hällde upp soppan i terrinen.",
+          "translations": {
+            "de": {
+              "text": "Er schüttete die Suppe in die Terrine."
+            },
+            "en": {
+              "text": "He poured the soup into the tureen."
+            },
+            "es": {
+              "text": "Él vertió la sopa en la sopera."
+            },
+            "fr": {
+              "text": "Il a versé le potage dans la soupière."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

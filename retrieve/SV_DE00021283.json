@@ -1,0 +1,48 @@
+{
+  "id": "SV_DE00021283",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "tugga",
+    "pronunciation": {
+      "value": "²tụg:a"
+    },
+    "pos": "verb",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "tuggar",
+        "tense": "present"
+      },
+      {
+        "text": "tuggade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "tuggat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "tuggad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "tugga",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00025909",
+      "definition": "bearbetar mat med tänderna",
+      "range_of_application": "ngn tuggar (ngt)",
+      "examples": [
+        {
+          "text": "Tugga maten ordentligt innan du sväljer!"
+        }
+      ]
+    }
+  ]
+}

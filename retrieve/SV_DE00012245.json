@@ -1,0 +1,63 @@
+{
+  "id": "SV_DE00012245",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "meny",
+    "pronunciation": {
+      "value": "menỵ:"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "menyn",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "menyer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "menyerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014897",
+      "definition": "matsedel",
+      "examples": [
+        {
+          "text": "Hovmästarn, kan vi få se menyn, tack?"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "lunch|meny"
+        },
+        {
+          "text": "trerätters|meny"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014898",
+      "definition": "lista över olika program, funktioner m.m. på dataskärm",
+      "examples": [
+        {
+          "text": "Jag letade i menyerna efter rätt funktion."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "start|meny"
+        }
+      ]
+    }
+  ]
+}

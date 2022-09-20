@@ -1,0 +1,137 @@
+{
+  "id": "SV_DE00003843",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "dricka",
+    "pronunciation": {
+      "value": "drịk:a"
+    },
+    "pos": "verb",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "dricker",
+        "tense": "present"
+      },
+      {
+        "text": "drack",
+        "tense": "imperfect"
+      },
+      {
+        "text": "druckit",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "drucken",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "drick",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00004538",
+      "definition": "sväljer ner vätska",
+      "range_of_application": "ngn dricker ngt",
+      "translations": {
+        "de": {
+          "text": "trinken"
+        },
+        "en": {
+          "text": "to drink"
+        },
+        "es": {
+          "text": "beber"
+        },
+        "fr": {
+          "text": "boire"
+        }
+      },
+      "examples": [
+        {
+          "text": "Om man tränar mycket, så bör man dricka minst två liter vätska varje dag.",
+          "translations": {
+            "de": {
+              "text": "Wenn man viel trainiert sollte man mindestens zwei Liter Flüssigkeit am Tag trinken."
+            },
+            "en": {
+              "text": "If one exercises a lot, one should drink at least two liters of liquids every day."
+            },
+            "es": {
+              "text": "Si se entrena mucho, se debería beber al menos dos litros de líquido al día."
+            },
+            "fr": {
+              "text": "Si on s'entraîne beaucoup, il faut boire au moins deux litres de liquide par jour."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00004539",
+      "definition": "berusar sig på sprit",
+      "range_of_application": "ngn dricker (ngt)",
+      "translations": {
+        "de": {
+          "text": "trinken"
+        },
+        "en": {
+          "text": "to drink (alcohol)",
+          "sentiment": "figurative"
+        },
+        "es": {
+          "text": "beber"
+        },
+        "fr": [
+          {
+            "text": "boire"
+          },
+          {
+            "text": "s'enivrer"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han började dricka och förlorade jobbet.",
+          "translations": {
+            "de": {
+              "text": "Er fing an zu trinken und verlor seinen Job."
+            },
+            "en": {
+              "text": "He started drinking and lost his job."
+            },
+            "es": {
+              "text": "Empezó a beber y perdió su trabajo."
+            },
+            "fr": {
+              "text": "Il a commencé à boire et a perdu son emploi."
+            }
+          }
+        },
+        {
+          "text": "Hon varken röker eller dricker.",
+          "translations": {
+            "de": {
+              "text": "Sie trinkt und raucht nicht."
+            },
+            "en": {
+              "text": "She doesn't smoke or drink."
+            },
+            "es": {
+              "text": "Ella ni fuma ni bebe."
+            },
+            "fr": {
+              "text": "Elle ne fume pas, ni ne boit."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

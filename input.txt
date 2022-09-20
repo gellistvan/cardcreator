@@ -1,53 +1,38 @@
-Afrika	Afrika	Afrika är den näst största kontinenten i världen efter Asien.
-Amerika	Amerika	Amerikas förenta stater består av femtio stater.
-Australien	Ausztrália	Australien är världens minsta kontinent.
-gräns	határ	Frankrike delar en gräns med Tyskland.
-bro	híd	De byggde en ny bro för att korsa floden.
-storbritannien	Nagy-Britannia	Storbritannien består av England, Skottland och Wales.
-huvudstad	főváros	Frankrikes huvudstad är Paris.
-stad	város	London är en mycket stor stad.
-Land	ország; vidék	Han bor i ett mycket stort hus i landet.
-grevskap	megye	Ett län använde tc under en räkning.
-distrikt	körzet, kerület	Ett distrikt i ett land har vanligtvis sin egen lokala regering.
-England	Anglia	England är en del av Storbritannien.
-Europa	Európa	Europa är en av de sju kontinenterna på jorden.
-Frankrike	Franciaország	Paris är huvudstaden i Frankrike.
-Tyskland	Németország	Tysklands huvudstad är Berlin.
-irland	Írország	Ön Irland är uppdelad i två delar, Irland och Nordirland.
-ö	sziget	En ö är ett land som är helt omgivet av vatten.
-Italien	Olaszország	Italien gränsar till Frankrike, Slovenien, Österrike och Schweiz.
-Japan	Japán	Japan består av många öar.
-landa	ország; vidék	Regeringen vill införa den nya lagen i hela landet.
-parkera	park	Barnen tycker om att spela fotboll i parken.
-område	vidék, régió, körzet	En region kan vara en samling av mindre markenheter eller en del av ett större område.
-regional	regionális, körzeti	Det kan finnas starka regionala skillnader i ett land.
-skottland	Skócia	Skottland är den norra tredjedelen av Storbritannien.
-stad	város	Huset var bara fem minuter utanför staden.
-Storbritannien	Egyesült Királyság	Med Storbritannien avses Storbritannien Storbritannien och Nordirland.
-USA	USA	USA står för Amerikas Förenta Stater.
-by	falu	En by är en gemenskap som är mindre än en stad eller stad.
-wales	Wales	Wales ligger i den västra delen av Storbritannien.
-utomlands	külföldön, külföldre	James reser utomlands regelbundet.
-Asien	Ázsia	Asien utgör mer än 60 procent av världens befolkning.
-aveny	sugárút, fasor	Alléen var kantad med ljust målade hus.
-stad	választókerület, kerület	De bodde i en lugn stad i norra delen av staden.
-Kalifornien	Kalifornia	Kalifornien är en stat i USA som har många turister.
-Kanada	Kanada	Kanada har två officiella språk, engelska och franska.
-Kina	Kína	Peking är Kinas huvudstad.
-kontinent	földrész, kontinens	Europa är en av de sju kontinenterna i världen.
-Egypten	Egyiptom	Egypten är ett land i Nordafrika.
-Global	globális, világ-	Det finns många tecken på global klimatförändring.
-Indien	India	Hindi och engelska är de officiella språken i Indien.
-Iran	Irán	Irans huvudstad är Teheran.
-Irak	Irak	Irak har den näst högsta oljereserven i världen efter Saudiarabien.
-Israel	Izrael	Jerusalem är Israels huvudstad.
-Korea	Korea	Korea är för närvarande uppdelat i två länder, Nordkorea och Sydkorea.
-lokal-	helyi	Hennes söner går på den lokala grundskolan.
-utomlands	külföld, külföldre	Fler och fler reser utomlands för att hitta arbete.
-pakistan	Pakisztán	Islamabad är Pakistan huvudstad.
-Polen	Lengyelország	Polen gick in i Europeiska unionen 2004.
-provins	tartomány	Provinsen Nordirland är den enda provinsen under brittiskt styre idag.
-ryssland	Oroszország	Ryssland är det största landet i världen.
-Spanien	Spanyolország	Spanien delar gränser med Portugal, Frankrike, Andorra, Gibraltar och Marocko.
-territorium	terület, körzet	Landet delades upp i tre territorier.
-Vietnam	Vietnam	Vietnam sägs ha en befolkning på mer än 84 miljoner.
+att baka	süt	Kan du hjälpa mig att baka en tårta till min väns fest?
+att bita	harap	Han bet i äpplet.
+att koka	forral	Jag ska bara koka lite vatten och ta en kopp te.
+skål	tál	På festen fanns det en stor bunke med chips på bordet.
+att tillgodose	gondoskodik, ellát, ellátást nyújt	Restaurangen tillgodoser alla smaker.
+att tugga	(meg)rág	Tugga maten noga innan du sväljer.
+att hacka	felvág, darabol	Jag tycker att hackande grönsaker är mycket lättlagade.
+diet	étrend, diéta	Han gick på diet för att han behövde gå ner i vikt.
+gryta, disk	edény, fazék	Idag var det hans tur att diska efter middagen.
+smak	íz, aroma	Jag älskar smaken av bra kaffe.
+gaffel	villa	Finns det några rena gafflar kvar?
+att steka	süt	Ska jag steka ett par ägg för att följa det?
+ingrediens	hozzávaló	Jag behövde köpa ingredienserna till kakan.
+ett värdshus	fogadó	Lyckligtvis fanns det några gratis rum på värdshuset.
+kniv	kés	Med en vass kniv skar hon grönsakerna i små bitar.
+meny	étlap	Allt på menyn såg så bra ut, han kunde inte bestämma vad han skulle beställa.
+att hälla	önt, tölt	Jag hällde vattnet försiktigt i ett glas.
+rå	nyers	De åt rå fisk på kallt bröd.
+ett recept	recept	Min mamma har ett hemligt recept på sin äppelkaka.
+sked	kanál	Föredrar du att äta spaghetti med en kniv eller sked och gaffel?
+att svälja	nyel	Halsen var så öm att det gjorde ont att till och med svälja.
+frukost	reggeli	De hade färskt bröd, apelsinjuice och kaffe till frukost.
+flaska	üveg, palack	Glasflaskor tilläts inte i konserten.
+att laga	főz	Han lagade en trevlig måltid till sin fru.
+kopp	csésze	Vill du ha en kopp te?
+att skära	vág, szel	Efter att ha klippt grönsakerna placerade jag dem i en gryta.
+middag	ebéd, vacsora	Vi gick ut och åt middag för att fira min födelsedag.
+att dricka	iszik	Hon drack två glas vatten för att hon var så törstig.
+att äta	eszik	Det är viktigt att äta god mat för att hålla sig frisk.
+att mata	etet	Hunden matades två gånger om dagen.
+mat	étel, táplálék, élelem	Min hunds främsta intresse är mat, särskilt mänsklig mat!
+ett glas	pohár	Glaset föll från bordet och bröt i små bitar.
+hungrig	éhes	Jag kan inte vänta med att äta något, jag är så hungrig!
+lunch	ebéd	Jag hade en smörgås till lunch idag.
+måltid	étkezés, étel	Han har alltid en varm måltid efter jobbet.
+tallrik	tányér	Vi tog med oss plastplattor och koppar för picknicken.
+restaurang	étterem	De åt på stadens dyraste restaurang.
+törstig	szomjas	Är du väldigt törstig?

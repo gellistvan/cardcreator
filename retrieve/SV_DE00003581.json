@@ -1,0 +1,100 @@
+{
+  "id": "SV_DE00003581",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "diet",
+    "pronunciation": {
+      "value": "diẹ:t"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "dieten",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "dieter",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "dieterna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00004194",
+      "definition": "regler (ofta bestämda av läkare) för vad man får äta och dricka",
+      "translations": {
+        "de": {
+          "text": "Diät",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "diet"
+        },
+        "es": {
+          "text": "dieta",
+          "gender": "feminine"
+        },
+        "fr": [
+          {
+            "text": "régime",
+            "gender": "masculine"
+          },
+          {
+            "text": "diète",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon håller sträng diet efter magsjukdomen.",
+          "translations": {
+            "de": {
+              "text": "Sie muss eine strenge Diät halten nach ihrer Magenerkrankung."
+            },
+            "en": {
+              "text": "She keeps a strict diet ever since her stomach sickness."
+            },
+            "es": {
+              "text": "Ella mantiene una dieta estricta después de la dolencia de estómago."
+            },
+            "fr": {
+              "text": "Suite à sa maladie gastro-intestinale, elle suit un régime draconien."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "diet|mat",
+          "translations": {
+            "de": {
+              "text": "Diätessen",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "diet food"
+            },
+            "es": {
+              "text": "comida dietética",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "aliment diététique",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

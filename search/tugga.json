@@ -1,0 +1,37 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00021282",
+      "language": "sv",
+      "headword": {
+        "text": "tugga",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00025908",
+          "definition": "så mycket mat som är lagom att tugga åt gången"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00021283",
+      "language": "sv",
+      "headword": {
+        "text": "tugga",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00025909",
+          "definition": "bearbetar mat med tänderna"
+        }
+      ]
+    }
+  ]
+}

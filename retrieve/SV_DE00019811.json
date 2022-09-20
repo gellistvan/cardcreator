@@ -1,0 +1,182 @@
+{
+  "id": "SV_DE00019811",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "svälja",
+    "pronunciation": {
+      "value": "svẹl:ja"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "sväljer",
+        "tense": "present"
+      },
+      {
+        "text": "svalde",
+        "tense": "imperfect"
+      },
+      {
+        "text": "svalt",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "svald",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "svälj",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00024104",
+      "definition": "låter föda e.d. glida ner genom matstrupen",
+      "range_of_application": "ngn sväljer (ngt)",
+      "translations": {
+        "de": {
+          "text": "schlucken"
+        },
+        "en": {
+          "text": "to swallow"
+        },
+        "es": {
+          "text": "tragar(se)"
+        },
+        "fr": [
+          {
+            "text": "avaler"
+          },
+          {
+            "text": "déglutir"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon svalde tabletten hel.",
+          "translations": {
+            "de": {
+              "text": "Die schluckte die Pillen ganz."
+            },
+            "en": {
+              "text": "She swallowed the tablet whole."
+            },
+            "es": {
+              "text": "Se tragó la pastilla entera."
+            },
+            "fr": {
+              "text": "Elle a avalé le comprimé entier"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "sväljer förtreten",
+          "translations": {
+            "de": {
+              "text": "den Stolz hinunterwürgen"
+            },
+            "en": {
+              "text": "to swallow one's pride"
+            },
+            "es": {
+              "text": "hacer de tripas corazón"
+            },
+            "fr": {
+              "text": "ravaler son dépit"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00024105",
+      "definition": "accepterar, tror på",
+      "sentiment": "figurative",
+      "range_of_application": "ngn sväljer ngt",
+      "translations": {
+        "de": {
+          "text": "schlucken"
+        },
+        "en": [
+          {
+            "text": "to accept"
+          },
+          {
+            "text": "to believe in"
+          },
+          {
+            "text": "to swallow"
+          }
+        ],
+        "es": [
+          {
+            "text": "tragarse"
+          },
+          {
+            "text": "digerir"
+          },
+          {
+            "text": "aceptar"
+          }
+        ],
+        "fr": [
+          {
+            "text": "accepter"
+          },
+          {
+            "text": "avaler"
+          },
+          {
+            "text": "digérer"
+          },
+          {
+            "text": "encaisser"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Hon hade svårt att svälja den orättvisa kritiken.",
+          "translations": {
+            "de": {
+              "text": "Es ist schwierig für sie die ungerechte Kritik zu schlucken."
+            },
+            "en": {
+              "text": "She had a hard time swallowing the unfair criticism."
+            },
+            "es": {
+              "text": "Le resultó difícil digerir esa crítica injusta."
+            },
+            "fr": {
+              "text": "Elle avait du mal à digérer la critique injuste."
+            }
+          }
+        },
+        {
+          "text": "Han svalde hennes förklaring utan att ifrågasätta den.",
+          "translations": {
+            "de": {
+              "text": "Er schluckte ihre Erklärung ohne nachzufragen."
+            },
+            "en": {
+              "text": "He swallowed her explanation without questioning it."
+            },
+            "es": {
+              "text": "Se tragó su explicación sin ponerla en duda."
+            },
+            "fr": {
+              "text": "Il a avalé son explication sans la remettre en cause."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

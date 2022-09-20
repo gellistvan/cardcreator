@@ -1,0 +1,165 @@
+{
+  "id": "SV_DE00010927",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "laga",
+    "pronunciation": {
+      "value": "²lạ:ga"
+    },
+    "pos": "verb",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "lagar",
+        "tense": "present"
+      },
+      {
+        "text": "lagade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "lagat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "lagad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "laga",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00013245",
+      "definition": "tillreder, anrättar",
+      "range_of_application": "ngn lagar ngt",
+      "translations": {
+        "de": {
+          "text": "zubereiten"
+        },
+        "en": [
+          {
+            "text": "to prepare"
+          },
+          {
+            "text": "to fix"
+          }
+        ],
+        "es": {
+          "text": "preparar"
+        },
+        "fr": [
+          {
+            "text": "préparer"
+          },
+          {
+            "text": "faire"
+          },
+          {
+            "text": "élaborer"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han stod i köket och lagade mat.",
+          "translations": {
+            "de": {
+              "text": "Er steht in der Küche und bereitet das Essen vor."
+            },
+            "en": {
+              "text": "He stood in the kitchen preparing food."
+            },
+            "es": {
+              "text": "Él estaba en la cocina preparando la comida."
+            },
+            "fr": {
+              "text": "Il faisait à manger dans la cuisine."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00013246",
+      "definition": "reparerar",
+      "range_of_application": "ngn lagar ngt",
+      "translations": {
+        "de": {
+          "text": "reparieren"
+        },
+        "en": [
+          {
+            "text": "to fix"
+          },
+          {
+            "text": "to repair"
+          },
+          {
+            "text": "to mend"
+          }
+        ],
+        "es": [
+          {
+            "text": "reparar"
+          },
+          {
+            "text": "arreglar"
+          }
+        ],
+        "fr": [
+          {
+            "text": "réparer"
+          },
+          {
+            "text": "raccomoder"
+          },
+          {
+            "text": "repriser"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han lagade cykeln på en timme.",
+          "translations": {
+            "de": {
+              "text": "Er reparierte das Fahrrad innerhalb einer Stunde."
+            },
+            "en": {
+              "text": "He fixed the bicycle in an hour."
+            },
+            "es": {
+              "text": "Él arregló la bici en una hora."
+            },
+            "fr": {
+              "text": "Il a réparé le vélo en une heure."
+            }
+          }
+        },
+        {
+          "text": "Tandläkaren lagade hålet.",
+          "translations": {
+            "de": {
+              "text": "Der Zahnarzt reparierte das Loch."
+            },
+            "en": {
+              "text": "The dentist fixed the cavity."
+            },
+            "es": {
+              "text": "El dentista empastó el orificio."
+            },
+            "fr": {
+              "text": "Le dentiste a obturé la carie."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

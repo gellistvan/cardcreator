@@ -1,0 +1,355 @@
+{
+  "id": "SV_DE00018144",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "smak",
+    "pronunciation": {
+      "value": "sma:k"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "smaken",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "smaker",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "smakerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00022002",
+      "senses": [
+        {
+          "id": "SV_SE00022003",
+          "definition": "förnimmelse av att något är sött, surt etc.",
+          "translations": {
+            "de": {
+              "text": "Geschmack",
+              "gender": "masculine"
+            },
+            "en": [
+              {
+                "text": "taste"
+              },
+              {
+                "text": "flavor"
+              }
+            ],
+            "es": [
+              {
+                "text": "sabor",
+                "gender": "masculine"
+              },
+              {
+                "text": "gusto",
+                "gender": "masculine"
+              }
+            ],
+            "fr": [
+              {
+                "text": "goût",
+                "gender": "masculine"
+              },
+              {
+                "text": "saveur",
+                "gender": "feminine"
+              },
+              {
+                "text": "sapidité",
+                "gender": "feminine"
+              }
+            ]
+          },
+          "examples": [
+            {
+              "text": "Såsen hade en smak av kanel.",
+              "translations": {
+                "de": {
+                  "text": "Die Sauce schmeckte nach Zimt."
+                },
+                "en": {
+                  "text": "The sauce had a taste of cinnamon."
+                },
+                "es": {
+                  "text": "La salsa tenía sabor a canela."
+                },
+                "fr": {
+                  "text": "La sauce avait une saveur de cannelle."
+                }
+              }
+            }
+          ],
+          "compositional_phrases": [
+            {
+              "text": "smak|lös",
+              "translations": {
+                "de": {
+                  "text": "geschmacklos",
+                  "pos": "adjective",
+                  "gender": "-"
+                },
+                "en": [
+                  {
+                    "text": "tasteless"
+                  },
+                  {
+                    "text": "flavorless"
+                  },
+                  {
+                    "text": "bland"
+                  }
+                ],
+                "es": {
+                  "text": "insípido/-da",
+                  "gender": "-"
+                },
+                "fr": [
+                  {
+                    "text": "fade",
+                    "gender": "masculine-feminine"
+                  },
+                  {
+                    "text": "insipide",
+                    "gender": "masculine-feminine"
+                  }
+                ]
+              }
+            },
+            {
+              "text": "frukt|smak",
+              "translations": {
+                "de": {
+                  "text": "Fruchtgeschmack",
+                  "gender": "masculine"
+                },
+                "en": {
+                  "text": "fruit flavor"
+                },
+                "es": {
+                  "text": "sabor de fruta",
+                  "gender": "masculine"
+                },
+                "fr": {
+                  "text": "goût de fruit",
+                  "gender": "masculine"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV_SE00022004",
+          "definition": "förmåga att känna sött, surt etc.",
+          "translations": {
+            "de": {
+              "text": "Geschmack",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "sense of taste"
+            },
+            "es": {
+              "text": "gusto",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "goût",
+              "gender": "masculine"
+            }
+          },
+          "examples": [
+            {
+              "text": "Lukt och smak är två av de fem sinnena.",
+              "translations": {
+                "de": {
+                  "text": "Der Geruchssinn und der Geschmack sind zwei der fünf Sinne."
+                },
+                "en": {
+                  "text": "Taste and smell are two of the five senses."
+                },
+                "es": {
+                  "text": "El olfato y el gusto son dos de los cinco sentidos."
+                },
+                "fr": {
+                  "text": "L'odorat et le goût sont deux des cinq sens."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00022005",
+      "definition": "uppfattning om vad som är vackert eller passande",
+      "translations": {
+        "de": {
+          "text": "Geschmack",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "taste"
+          },
+          {
+            "text": "sense of style"
+          }
+        ],
+        "es": {
+          "text": "gusto",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "(bon) goût",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Hon möblerade rummet med utsökt smak.",
+          "translations": {
+            "de": {
+              "text": "Sie richtet das Zimmer mit viel Geschmack ein."
+            },
+            "en": {
+              "text": "She furnished the room with excellent taste."
+            },
+            "es": {
+              "text": "Ella amuebló la habitación con un gusto exquisito."
+            },
+            "fr": {
+              "text": "Elle a décoré la pièce avec un goût exquis."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "smak|full",
+          "translations": {
+            "de": {
+              "text": "geschmackvoll",
+              "pos": "adjective",
+              "gender": "-"
+            },
+            "en": {
+              "text": "tasteful"
+            },
+            "es": {
+              "text": "de buen gusto",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "de (bon) goût",
+              "gender": "-"
+            }
+          }
+        },
+        {
+          "text": "smak|riktning",
+          "translations": {
+            "de": {
+              "text": "Geschmacksrichtung",
+              "gender": "feminine"
+            },
+            "en": [
+              {
+                "text": "fashion"
+              },
+              {
+                "text": "taste"
+              }
+            ],
+            "es": {
+              "text": "(tendencia del) gusto",
+              "gender": "(f) m"
+            },
+            "fr": {
+              "text": "goûts (et préférences)",
+              "gender": "feminine",
+              "number": "plural"
+            }
+          }
+        },
+        {
+          "text": "kläd|smak",
+          "translations": {
+            "de": {
+              "text": "Modegeschmack",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "taste in clothing"
+            },
+            "es": {
+              "text": "(buen) gusto para la ropa",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "goût vestimentaire",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "efter tycke och smak",
+          "translations": {
+            "de": {
+              "text": "nach Geschmack",
+              "gender": "-"
+            },
+            "en": {
+              "text": "according to one's taste or preferences"
+            },
+            "es": {
+              "text": "según el gusto de cada cual",
+              "gender": "-"
+            },
+            "fr": [
+              {
+                "text": "au gré de quelqu'un",
+                "gender": "-"
+              },
+              {
+                "text": "affaire de goûtu gré de quelqu'un",
+                "gender": "-"
+              }
+            ]
+          }
+        },
+        {
+          "text": "faller någon i smaken",
+          "translations": {
+            "de": {
+              "text": "dem Geschmack passen",
+              "gender": "-"
+            },
+            "en": {
+              "text": "to strike sb's fancy"
+            },
+            "es": {
+              "text": "caerle bien a alguien",
+              "gender": "-"
+            },
+            "fr": {
+              "text": "être du goût de quelqu'un",
+              "gender": "-"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

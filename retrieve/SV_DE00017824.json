@@ -1,0 +1,75 @@
+{
+  "id": "SV_DE00017824",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "skål",
+    "pronunciation": {
+      "value": "skå:l"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "skålen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "skålar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "skålarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00021582",
+      "definition": "rundat kärl (för uppläggning av mat m.m.)",
+      "examples": [
+        {
+          "text": "Vi ställde fram skålar och fat."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "silver|skål"
+        },
+        {
+          "text": "socker|skål"
+        },
+        {
+          "text": "våg|skål"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00021583",
+      "senses": [
+        {
+          "id": "SV_SE00021584",
+          "definition": "hälsning när man just ska dricka alkohol gemensamt",
+          "examples": [
+            {
+              "text": "Brudgummens far utbringade en skål."
+            }
+          ]
+        },
+        {
+          "id": "SV_SE00021585",
+          "definition": "utrop",
+          "examples": [
+            {
+              "text": "Skål för fortsatt gott samarbete!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

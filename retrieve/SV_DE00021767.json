@@ -1,0 +1,111 @@
+{
+  "id": "SV_DE00021767",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "universitet",
+    "pronunciation": {
+      "value": "univär‿sitẹ:t"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "universitetet",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "universitet",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "universiteten",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00026492",
+      "definition": "inrättning för forskning och högre utbildning, högskola",
+      "translations": {
+        "de": {
+          "text": "Universität",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "university"
+        },
+        "es": {
+          "text": "universidad",
+          "gender": "feminine"
+        },
+        "fr": {
+          "text": "université",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Lunds universitet",
+          "translations": {
+            "de": {
+              "text": "Lunds Universität"
+            },
+            "en": {
+              "text": "Lund University"
+            },
+            "es": {
+              "text": "Universidad de Lund"
+            },
+            "fr": {
+              "text": "université de Lund"
+            }
+          }
+        },
+        {
+          "text": "Efter studenten läste hon fyra år på universitetet.",
+          "translations": {
+            "de": {
+              "text": "Nach dem Abitur studierte er vier Jahre lang an der Universität."
+            },
+            "en": {
+              "text": "After qualifying for entrance to university, she studied there for four years."
+            },
+            "es": {
+              "text": "Después del bachiller estudió cuatro años en la universidad."
+            },
+            "fr": {
+              "text": "Après le bac, elle a fait quatre années de fac."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "universitets|lärare",
+          "translations": {
+            "de": {
+              "text": "Universitätslehrer/-in",
+              "gender": "masculine-feminine"
+            },
+            "en": {
+              "text": "university teacher/professor"
+            },
+            "es": {
+              "text": "profesorsora universitario/-ria",
+              "gender": "masculine-feminine"
+            },
+            "fr": {
+              "text": "professeur d'université",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

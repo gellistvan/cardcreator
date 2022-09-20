@@ -12,8 +12,8 @@ tr {
 
 	/*border-style: solid;
 	border-width: 1px;
-	border-color: black;
-	/*background-color: blue;*/
+	border-color: black;*/
+	background-color: blue;
 }
 
 td
@@ -24,8 +24,11 @@ td
 }
 
 .title, .article {
-	font-weight: bold;
 	font-size: 18pt;
+}
+
+.pron{
+	font-size: 14pt;
 }
 
 .definition {
@@ -33,6 +36,7 @@ td
 	margin-top: 12pt;
 }
 
+	
 @media print {
     body, table, tr, td {
 		margin: 0;
@@ -42,7 +46,6 @@ td
 	{
 		padding: 1cm;
 	}
-	
 	table
 	{
 		page-break-after: always;

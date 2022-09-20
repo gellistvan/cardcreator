@@ -1,0 +1,45 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00017861",
+      "language": "sv",
+      "headword": {
+        "text": "skära",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00021624",
+          "definition": "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+        },
+        {
+          "id": "SV_SE00021625",
+          "definition": "är skarp och obehaglig"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00017862",
+      "language": "sv",
+      "headword": {
+        "text": "skära",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00021626",
+          "definition": "kort lie som är formad som en halvcirkel"
+        },
+        {
+          "id": "SV_SE00021627",
+          "definition": "månens belysta del som liknar en skära"
+        }
+      ]
+    }
+  ]
+}

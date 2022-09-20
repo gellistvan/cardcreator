@@ -1,0 +1,241 @@
+{
+  "id": "SV_DE00001360",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "balans",
+    "pronunciation": {
+      "value": "balạn:s"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "balansen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "–",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00001536",
+      "definition": "jämvikt",
+      "translations": {
+        "de": {
+          "text": "Gleichgewicht",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "balance"
+        },
+        "es": {
+          "text": "equilibrio",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "équilibre",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Han hade svårt att hålla balansen på skidorna.",
+          "translations": {
+            "de": {
+              "text": "Er hatte Schwierigkeiten das Gleichgewicht auf den Skiern zu halten."
+            },
+            "en": {
+              "text": "He had a hard time keeping his balance on the skis."
+            },
+            "es": {
+              "text": "Tuvo dificultades para mantener el equilibrio sobre los esquís."
+            },
+            "fr": {
+              "text": "Il avait du mal à garder l'équilibre sur ses skis."
+            }
+          }
+        },
+        {
+          "text": "Hon tappade balansen och föll.",
+          "translations": {
+            "de": {
+              "text": "Sie verlor das Gleichgewicht und fiel."
+            },
+            "en": {
+              "text": "She lost her balance and fell."
+            },
+            "es": {
+              "text": "Perdió el equilibrio y se cayó."
+            },
+            "fr": {
+              "text": "Elle perdit l'équilibre et tomba."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "balans|gång",
+          "translations": {
+            "de": {
+              "text": "Balanceakt",
+              "gender": "masculine"
+            },
+            "en": [
+              {
+                "text": "balance beam/line"
+              },
+              {
+                "text": "balance walk"
+              },
+              {
+                "text": "tightrope"
+              }
+            ],
+            "es": {
+              "text": "equilibrios",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "exercice d'équilibre",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "balans|sinne",
+          "translations": {
+            "de": {
+              "text": "Gleichgewichtssinn",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "sense of balance"
+            },
+            "es": {
+              "text": "sentido del equilibrio",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "sens de l'équilibre",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00001537",
+      "definition": "förmåga att behålla jämvikten",
+      "translations": {
+        "de": [
+          {
+            "text": "Ausgleich",
+            "gender": "masculine"
+          },
+          {
+            "text": "Einklang",
+            "gender": "masculine"
+          }
+        ],
+        "en": [
+          {
+            "text": "balance"
+          },
+          {
+            "text": "stability"
+          },
+          {
+            "text": "equanimity"
+          }
+        ],
+        "es": {
+          "text": "equilibrio",
+          "gender": "masculine"
+        },
+        "fr": [
+          {
+            "text": "équilibre",
+            "gender": "masculine"
+          },
+          {
+            "text": "balance",
+            "gender": "feminine"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Regeringens mål var att bringa balans i ekonomin.",
+          "translations": {
+            "de": {
+              "text": "Das Ziel der Regierung war es die Wirtschaft wieder in Einklang zu bringen"
+            },
+            "en": {
+              "text": "The goal of the administration was to bring balance to the economy."
+            },
+            "es": {
+              "text": "El objetivo del gobierno era dar equilibrio a la economía."
+            },
+            "fr": {
+              "text": "L'objectif du gouvernement était de rétablir l'équilibre économique."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "handels|balans",
+          "translations": {
+            "de": {
+              "text": "Handelsbilanz",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "balance of trade"
+            },
+            "es": {
+              "text": "balanza comercial",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "balance commerciale",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "makt|balans",
+          "translations": {
+            "de": {
+              "text": "Mächteverhältnis",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "balance of power"
+            },
+            "es": {
+              "text": "equilibrio de poder",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "équilibre des pouvoirs",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00010927",
+      "language": "sv",
+      "headword": {
+        "text": "laga",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00013245",
+          "definition": "tillreder, anrättar"
+        },
+        {
+          "id": "SV_SE00013246",
+          "definition": "reparerar"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00010926",
+      "language": "sv",
+      "headword": {
+        "text": "laga",
+        "pos": "adjective"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00013244",
+          "definition": "som har stöd av lagen"
+        }
+      ]
+    }
+  ]
+}

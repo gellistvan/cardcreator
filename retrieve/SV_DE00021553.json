@@ -1,0 +1,58 @@
+{
+  "id": "SV_DE00021553",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "törstig",
+    "pronunciation": {
+      "value": "²tọ̈r‿s:tig"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "törstigt",
+        "gender": "neuter"
+      },
+      {
+        "text": "törstiga",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00026250",
+      "definition": "som känner törst",
+      "translations": {
+        "de": {
+          "text": "durstig"
+        },
+        "en": {
+          "text": "thirsty"
+        },
+        "es": {
+          "text": "sediento/-ta"
+        },
+        "fr": [
+          {
+            "text": "assoiffé/-ée"
+          },
+          {
+            "text": "qui a soif"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Jag är törstig på ett glas vin.",
+          "translations": {
+            "fr": {
+              "text": "J'ai soif d'un verre de vin."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

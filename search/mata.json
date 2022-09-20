@@ -6,20 +6,20 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00012046",
       "language": "sv",
       "headword": {
-        "text": "fönster",
-        "pos": "noun"
+        "text": "mata",
+        "pos": "verb"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
+          "id": "SV_SE00014663",
+          "definition": "ger mat eller foder åt"
         },
         {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00014664",
+          "definition": "förser en datamaskin med material"
         }
       ]
     }

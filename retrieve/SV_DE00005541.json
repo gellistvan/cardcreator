@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00005541",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "frukost",
+    "pronunciation": {
+      "value": "frụk:åst"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "frukosten",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "frukostar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "frukostarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006635",
+      "definition": "dagens första måltid",
+      "examples": [
+        {
+          "text": "På sommaren brukar de äta frukost på balkongen."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "frukost|bord"
+        },
+        {
+          "text": "gröt|frukost"
+        }
+      ]
+    }
+  ]
+}

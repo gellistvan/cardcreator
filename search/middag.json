@@ -6,20 +6,20 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00012287",
       "language": "sv",
       "headword": {
-        "text": "fönster",
+        "text": "middag",
         "pos": "noun"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
+          "id": "SV_SE00014942",
+          "definition": "tiden omkring klockan 12 på dagen"
         },
         {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00014943",
+          "definition": "dagens kraftigaste måltid"
         }
       ]
     }

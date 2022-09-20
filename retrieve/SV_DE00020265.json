@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00020265",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "tallrik",
+    "pronunciation": {
+      "value": "²tạl:rik:"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "tallriken",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "tallrikar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "tallrikarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00024687",
+      "definition": "(mindre) fat där maten till en person läggs upp, fat",
+      "examples": [
+        {
+          "text": "en djup tallrik"
+        },
+        {
+          "text": "en tallrik gröt"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "porslins|tallrik"
+        }
+      ]
+    }
+  ]
+}

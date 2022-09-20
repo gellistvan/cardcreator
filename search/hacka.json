@@ -1,0 +1,49 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00007423",
+      "language": "sv",
+      "headword": {
+        "text": "hacka",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00008929",
+          "definition": "ett verktyg som används för att luckra upp jord"
+        },
+        {
+          "id": "SV_SE00008930",
+          "definition": "mindre summa pengar"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00007424",
+      "language": "sv",
+      "headword": {
+        "text": "hacka",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00008931",
+          "definition": "bearbetar med hacka; delar i mindre bitar, gör hack"
+        },
+        {
+          "id": "SV_SE00008932",
+          "definition": "stammar; talar osäkert"
+        },
+        {
+          "id": "SV_SE00008933",
+          "definition": "kritiserar hela tiden"
+        }
+      ]
+    }
+  ]
+}

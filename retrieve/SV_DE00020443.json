@@ -1,0 +1,89 @@
+{
+  "id": "SV_DE00020443",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "term",
+    "pronunciation": {
+      "value": "tär:m"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "termen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": " termer",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "termerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00024897",
+      "definition": "ord (i fackspråk) med en klart definierad betydelse, fackterm",
+      "translations": {
+        "de": {
+          "text": "Fachausdruck",
+          "gender": "masculine"
+        },
+        "en": {
+          "text": "(technical) term"
+        },
+        "es": {
+          "text": "término (técnico)",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "terme",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Boken var svårläst på grund av alla de tekniska termerna.",
+          "translations": {
+            "de": {
+              "text": "Das Buch war schwer zu lesen wegen allen technischen Fachausdrücken."
+            },
+            "en": {
+              "text": "The book was difficult to read, due to all the technical terms."
+            },
+            "es": {
+              "text": "El libro era difícil de leer a causa de todos los términos técnicos."
+            },
+            "fr": {
+              "text": "Le livre est difficile à lire en raison des nombreux termes techniques."
+            }
+          }
+        },
+        {
+          "text": "Den medicinska termen för högt blodtryck är hypertoni.",
+          "translations": {
+            "de": {
+              "text": "Der medizinische Fachausdruck für zu hohen Blutdruck ist Hypertonie."
+            },
+            "en": {
+              "text": "The medical term for high blood pressure is hypertension."
+            },
+            "es": {
+              "text": "El término médico para la tensión alta es hipertensión."
+            },
+            "fr": {
+              "text": "Le terme médical pour pression sanguine élevée est hypertension."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

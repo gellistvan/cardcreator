@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00012814",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "måltid",
+    "pronunciation": {
+      "value": "²mạ̊:lti:d"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "måltiden",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "måltider",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "måltiderna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00015578",
+      "definition": "tillfälle då man äter mat; maten man äter",
+      "examples": [
+        {
+          "text": "en god måltid"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "fest|måltid"
+        },
+        {
+          "text": "måltids|dricka"
+        }
+      ]
+    }
+  ]
+}

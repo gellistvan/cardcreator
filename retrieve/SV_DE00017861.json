@@ -1,0 +1,69 @@
+{
+  "id": "SV_DE00017861",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "skära",
+    "pronunciation": {
+      "value": "ʃä:r"
+    },
+    "pos": "verb",
+    "homograph_number": 1,
+    "inflections": [
+      {
+        "text": "skär",
+        "tense": "present"
+      },
+      {
+        "text": "skar",
+        "tense": "imperfect"
+      },
+      {
+        "text": "skurit",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "skuren",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "skär",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00021624",
+      "definition": "bearbetar med kniv (för att dela upp eller skilja ifrån något)",
+      "range_of_application": "ngn skär (upp) ngt",
+      "examples": [
+        {
+          "text": "Hon skar (upp) brödet."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "skär alla över en kam"
+        },
+        {
+          "text": "skär guld med täljkniv(ar)"
+        },
+        {
+          "text": "är som klippt och skuren"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00021625",
+      "definition": "är skarp och obehaglig",
+      "range_of_application": "ngt skär",
+      "examples": [
+        {
+          "text": "ett skärande ljud"
+        }
+      ]
+    }
+  ]
+}

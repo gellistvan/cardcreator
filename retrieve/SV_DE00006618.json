@@ -1,0 +1,61 @@
+{
+  "id": "SV_DE00006618",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "gaffel",
+    "pronunciation": {
+      "value": "gạf:el"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "gaffeln",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "gafflar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "gafflarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00007935",
+      "definition": "ett redskap att äta med (med två eller flera spetsar fästa vid ett skaft)",
+      "examples": [
+        {
+          "text": "Han är bara fem år men kan redan äta med kniv och gaffel."
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00007936",
+      "definition": "ätverktyg",
+      "examples": [
+        {
+          "text": "Han satte gaffeln i höstacken."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "gaffel|truck"
+        },
+        {
+          "text": "fram|gaffel"
+        },
+        {
+          "text": "hö|gaffel"
+        }
+      ]
+    }
+  ]
+}

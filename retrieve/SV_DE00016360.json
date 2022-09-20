@@ -1,0 +1,63 @@
+{
+  "id": "SV_DE00016360",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "rå",
+    "pronunciation": {
+      "value": "rå:"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "rått",
+        "gender": "neuter"
+      },
+      {
+        "text": "råa",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00019805",
+      "definition": "inte tillagad, inte kokad",
+      "examples": [
+        {
+          "text": "råa grönsaker"
+        },
+        {
+          "text": "Fisken var rå i mitten."
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00019806",
+      "definition": "grov (2), brutal",
+      "examples": [
+        {
+          "text": "råa könsord"
+        },
+        {
+          "text": "ett rått överfall"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00019807",
+      "definition": "fuktig och kall",
+      "examples": [
+        {
+          "text": "I källaren var det kallt och rått."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "rå|kall"
+        }
+      ]
+    }
+  ]
+}

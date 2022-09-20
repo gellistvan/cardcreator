@@ -6,20 +6,16 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00017409",
       "language": "sv",
       "headword": {
-        "text": "fönster",
+        "text": "sked",
         "pos": "noun"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
-        },
-        {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00021072",
+          "definition": "ett redskap att äta flytande föda med"
         }
       ]
     }

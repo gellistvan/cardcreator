@@ -1,0 +1,164 @@
+{
+  "id": "SV_DE00012046",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "mata",
+    "pronunciation": {
+      "value": "²mạ:ta"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "matar",
+        "tense": "present"
+      },
+      {
+        "text": "matade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "matat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "matad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "mata",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014663",
+      "definition": "ger mat eller foder åt",
+      "range_of_application": "ngn matar ngn/ngt",
+      "translations": {
+        "de": {
+          "text": "füttern"
+        },
+        "en": [
+          {
+            "text": "to give food to"
+          },
+          {
+            "text": "to nourish"
+          },
+          {
+            "text": "to feed"
+          }
+        ],
+        "es": [
+          {
+            "text": "dar de comer"
+          },
+          {
+            "text": "dar la comida"
+          },
+          {
+            "text": "alimentar"
+          }
+        ],
+        "fr": [
+          {
+            "text": "nourrir"
+          },
+          {
+            "text": "donner à manger"
+          },
+          {
+            "text": "faire manger"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "De måste fortfarande mata det minsta barnet.",
+          "translations": {
+            "de": {
+              "text": "Das kleinste Kind mussten sie noch immer füttern."
+            },
+            "en": {
+              "text": "They still have to feed their youngest child."
+            },
+            "es": {
+              "text": "Todavía tienen que seguir dándole la comida al hijo más pequeño."
+            },
+            "fr": {
+              "text": "Ils doivent encore faire manger l'enfant le plus jeune."
+            }
+          }
+        },
+        {
+          "text": "Mata inte djuren!",
+          "translations": {
+            "de": {
+              "text": "Füttere die Tiere nicht!"
+            },
+            "en": {
+              "text": "Don't feed the animals!"
+            },
+            "es": {
+              "text": "No dar comida a los animales."
+            },
+            "fr": {
+              "text": "Ne donnez pas à manger aux animaux !"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014664",
+      "definition": "förser en datamaskin med material",
+      "range_of_application": "ngn matar in ngt",
+      "translations": {
+        "de": {
+          "text": "eingeben"
+        },
+        "en": [
+          {
+            "text": "to enter into a computer"
+          },
+          {
+            "text": "to input data"
+          }
+        ],
+        "es": {
+          "text": "meter"
+        },
+        "fr": [
+          {
+            "text": "alimenter"
+          },
+          {
+            "text": "saisir"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Han matade in uppgifterna i databasen.",
+          "translations": {
+            "de": {
+              "text": "Er gab die Angaben in die Datenbank ein."
+            },
+            "en": {
+              "text": "He fed the information into the database."
+            },
+            "es": {
+              "text": "Él metió los datos en el ordenador."
+            },
+            "fr": {
+              "text": "Il a saisi les données dans la base de données."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

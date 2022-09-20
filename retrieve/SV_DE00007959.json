@@ -1,0 +1,130 @@
+{
+  "id": "SV_DE00007959",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "hungrig",
+    "pronunciation": {
+      "value": "²hụŋ:rig"
+    },
+    "pos": "adjective",
+    "inflections": [
+      {
+        "text": "hungrigt",
+        "gender": "neuter"
+      },
+      {
+        "text": "hungriga",
+        "number": "plural"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00009561",
+      "definition": "som känner hunger, svulten, sugen",
+      "translations": {
+        "de": {
+          "text": "hungrig"
+        },
+        "en": {
+          "text": "hungry"
+        },
+        "es": [
+          {
+            "text": "hambriento/-ta"
+          },
+          {
+            "text": "famélico/-ca"
+          }
+        ],
+        "fr": [
+          {
+            "text": "(avoir) faim"
+          },
+          {
+            "text": "affamé/-ée"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Jag är alltid hungrig.",
+          "translations": {
+            "de": {
+              "text": "Ich bin immer hungrig."
+            },
+            "en": {
+              "text": "I am always hungry."
+            },
+            "es": {
+              "text": "Siempre tengo hambre."
+            },
+            "fr": {
+              "text": "J'ai toujours faim."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00009562",
+      "definition": "trånande",
+      "translations": {
+        "de": {
+          "text": "hungrig"
+        },
+        "en": [
+          {
+            "text": "hungry"
+          },
+          {
+            "text": "yearning"
+          },
+          {
+            "text": "pining"
+          }
+        ],
+        "es": [
+          {
+            "text": "lánguido/-da"
+          },
+          {
+            "text": "anhelante"
+          }
+        ],
+        "fr": [
+          {
+            "text": "affamé/-ée"
+          },
+          {
+            "text": "languissant/-ante"
+          },
+          {
+            "text": "langoureux/-euse"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "en hungrig blick",
+          "translations": {
+            "de": {
+              "text": "ein hungriger Blick"
+            },
+            "en": {
+              "text": "a hungry look/gaze"
+            },
+            "es": {
+              "text": "una mirada famélica"
+            },
+            "fr": {
+              "text": "un regard affamé"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

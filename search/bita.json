@@ -1,0 +1,23 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00002181",
+      "language": "sv",
+      "headword": {
+        "text": "bita",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00002522",
+          "definition": "sätter tänderna i något (t.ex. för att äta eller (om djur) attackera)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SV_DE00006913",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "glas",
+    "pronunciation": {
+      "value": "gla:s"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "glaset",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "glas",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "glasen",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00008282",
+      "definition": "ett genomskinligt ämne",
+      "examples": [
+        {
+          "text": "Vi har både färgade och ofärgade glas."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "glas|lampa"
+        },
+        {
+          "text": "glas|skiva"
+        },
+        {
+          "text": "glas|skål"
+        },
+        {
+          "text": "fönster|glas"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00008283",
+      "definition": "kärl av glas (eller liknande material) att dricka ur",
+      "examples": [
+        {
+          "text": "ett glas vin"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "champagne|glas"
+        },
+        {
+          "text": "dricks|glas"
+        }
+      ]
+    }
+  ]
+}

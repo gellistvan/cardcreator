@@ -1,0 +1,60 @@
+{
+  "id": "SV_DE00007200",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "gryta",
+    "pronunciation": {
+      "value": "²grỵ:ta"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "grytan",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "grytor",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "grytorna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00008642",
+      "definition": "ett slags kokkärl, kittel, kastrull",
+      "examples": [
+        {
+          "text": "Jag har flera grytor stående på spisen."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "stek|gryta"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00008643",
+      "definition": "maträtt i gryta",
+      "examples": [
+        {
+          "text": "Jag har gjort en gryta på kalv och rödvin."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "kött|gryta"
+        }
+      ]
+    }
+  ]
+}

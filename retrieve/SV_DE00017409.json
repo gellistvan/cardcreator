@@ -1,0 +1,52 @@
+{
+  "id": "SV_DE00017409",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "sked",
+    "pronunciation": {
+      "value": "ʃe:d"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "skeden",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "skedar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "skedarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00021072",
+      "definition": "ett redskap att äta flytande föda med",
+      "examples": [
+        {
+          "text": "Jag matade henne med sked."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "mat|sked"
+        },
+        {
+          "text": "sopp|sked"
+        },
+        {
+          "text": "te|sked"
+        }
+      ]
+    }
+  ]
+}

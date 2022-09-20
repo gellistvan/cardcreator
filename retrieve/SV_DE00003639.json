@@ -1,0 +1,373 @@
+{
+  "id": "SV_DE00003639",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "disk",
+    "pronunciation": {
+      "value": "dis:k"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "disken",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "diskar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "diskarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00004264",
+      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "translations": {
+        "de": [
+          {
+            "text": "Schalter",
+            "gender": "masculine"
+          },
+          {
+            "text": "Tresen",
+            "gender": "masculine"
+          }
+        ],
+        "en": [
+          {
+            "text": "counter"
+          },
+          {
+            "text": "bar"
+          }
+        ],
+        "es": {
+          "text": "mostrador",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "comptoir",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Man beställer maten vid disken, inte vid borden!",
+          "translations": {
+            "de": {
+              "text": "Man bestellt das Essen am Tresen und nicht am Tisch."
+            },
+            "en": {
+              "text": "One orders food at the counter, not at the table!"
+            },
+            "es": {
+              "text": "Se pide la comida en el mostrador, no en la mesa."
+            },
+            "fr": {
+              "text": "Les plats sont à commander au comptoir et non depuis la table !"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "bar|disk",
+          "translations": {
+            "de": {
+              "text": "Bartresen",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "bar counter"
+            },
+            "es": {
+              "text": "barra",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "comptoir de bar",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00004265",
+      "definition": "bestick, tallrikar o.d. som diskas (1)",
+      "translations": {
+        "de": {
+          "text": "Besteck",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "dishes"
+        },
+        "es": {
+          "text": "platos para fregar",
+          "gender": "feminine",
+          "number": "plural"
+        },
+        "fr": {
+          "text": "vaisselle",
+          "gender": "feminine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Om du diskar, så torkar jag disken!",
+          "translations": {
+            "de": {
+              "text": "Wenn du spülst dann trockne ich ab."
+            },
+            "en": {
+              "text": "If you wash the dishes, I'll dry them!"
+            },
+            "es": {
+              "text": "Si friegas, yo seco los platos."
+            },
+            "fr": {
+              "text": "Si tu laves la vaisselle, je l'essuierai !"
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "disk|borste",
+          "translations": {
+            "de": {
+              "text": "Spülborste",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "dish brush"
+            },
+            "es": {
+              "text": "cepillo de fregar los platos",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "brosse à vaisselle",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "disk|handske",
+          "translations": {
+            "de": {
+              "text": "Spülhandschuh",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "dish glove"
+            },
+            "es": {
+              "text": "guante para fregar",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "gant de vaisselle",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "disk|plockare",
+          "translations": {
+            "de": {
+              "text": "Tellerwäscher/-in",
+              "gender": "masculine-feminine"
+            },
+            "en": {
+              "text": "dish boy/girl"
+            },
+            "es": {
+              "text": "ayudante de camarero",
+              "gender": "masculine-feminine"
+            },
+            "fr": {
+              "text": "aide-serveur/-se",
+              "gender": "masculine-feminine"
+            }
+          }
+        },
+        {
+          "text": "disk|vatten",
+          "translations": {
+            "de": {
+              "text": "Spülwasser",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "dish water"
+            },
+            "es": {
+              "text": "agua sucia",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "eau de vaisselle",
+              "gender": "feminine"
+            }
+          }
+        },
+        {
+          "text": "middags|disk",
+          "translations": {
+            "de": {
+              "text": "schmutziges Geschirr vom Abendessen",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "evening dishes"
+            },
+            "es": {
+              "text": "vajilla usada",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "la vaisselle de midi",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00004266",
+      "definition": "skiva där man lagrar data",
+      "translations": {
+        "de": {
+          "text": "Diskette",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "(computer) disk"
+        },
+        "es": {
+          "text": "disco",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "disque",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Jag har alla mina data på en disk.",
+          "translations": {
+            "de": {
+              "text": "Ich habe alle meine Dateien auf einer Diskette."
+            },
+            "en": {
+              "text": "I have all of my data on a disk."
+            },
+            "es": {
+              "text": "Tengo todos mis datos en un disco."
+            },
+            "fr": {
+              "text": "J'ai toutes mes données sur un disque."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "hård|disk",
+          "translations": {
+            "de": {
+              "text": "Festplatte",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "hard disk"
+            },
+            "es": {
+              "text": "disco duro",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "disque dur",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00004267",
+      "definition": "en sorts platta mellan ryggradens kotor",
+      "semantic_category": "anatomy",
+      "translations": {
+        "de": {
+          "text": "Bandscheibe",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "disc (spine)"
+        },
+        "es": {
+          "text": "disco",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "disque",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Jag har flera utslitna diskar.",
+          "translations": {
+            "de": {
+              "text": "Mehrere meiner Bandscheiben sind verschlissen."
+            },
+            "en": {
+              "text": "I have several worn out vertebral discs."
+            },
+            "es": {
+              "text": "Tengo varios discos desgastados."
+            },
+            "fr": {
+              "text": "J'ai plusieurs disques usés."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "disk|bråck",
+          "translations": {
+            "de": {
+              "text": "Bandscheibenvorfall",
+              "gender": "masculine"
+            },
+            "en": {
+              "text": "ruptured disc"
+            },
+            "es": {
+              "text": "hernia discal",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "hernie discale",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

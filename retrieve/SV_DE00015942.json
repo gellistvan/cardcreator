@@ -1,0 +1,52 @@
+{
+  "id": "SV_DE00015942",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "restaurang",
+    "pronunciation": {
+      "value": "resta‿orạŋ:"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "restaurangen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "restauranger",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "restaurangerna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00019294",
+      "definition": "(finare) matställe",
+      "examples": [
+        {
+          "text": "På söndagarna brukar han äta på restaurang."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "restaurang|nota"
+        },
+        {
+          "text": "dans|restaurang"
+        },
+        {
+          "text": "lunch|restaurang"
+        }
+      ]
+    }
+  ]
+}

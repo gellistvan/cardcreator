@@ -6,20 +6,20 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00012245",
       "language": "sv",
       "headword": {
-        "text": "fönster",
+        "text": "meny",
         "pos": "noun"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
+          "id": "SV_SE00014897",
+          "definition": "matsedel"
         },
         {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00014898",
+          "definition": "lista över olika program, funktioner m.m. på dataskärm"
         }
       ]
     }

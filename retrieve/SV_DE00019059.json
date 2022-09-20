@@ -1,0 +1,50 @@
+{
+  "id": "SV_DE00019059",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "steka",
+    "pronunciation": {
+      "value": "stẹ:ka"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "steker",
+        "tense": "present"
+      },
+      {
+        "text": "stekte",
+        "tense": "imperfect"
+      },
+      {
+        "text": "stekt",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "stekt",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "stek",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00023139",
+      "definition": "tillagar med matfett i stark hetta (i stekpanna)",
+      "range_of_application": "ngn steker ngt",
+      "examples": [
+        {
+          "text": "Han stekte äggen."
+        },
+        {
+          "text": "Hon stekte potatisen."
+        }
+      ]
+    }
+  ]
+}

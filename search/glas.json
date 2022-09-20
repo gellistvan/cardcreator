@@ -6,20 +6,20 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00006913",
       "language": "sv",
       "headword": {
-        "text": "fönster",
+        "text": "glas",
         "pos": "noun"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
+          "id": "SV_SE00008282",
+          "definition": "ett genomskinligt ämne"
         },
         {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00008283",
+          "definition": "kärl av glas (eller liknande material) att dricka ur"
         }
       ]
     }

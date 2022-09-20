@@ -1,0 +1,49 @@
+{
+  "id": "SV_DE00005056",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "flaska",
+    "pronunciation": {
+      "value": "²flạs:ka"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "flaskan",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "flaskor",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "flaskorna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00006045",
+      "definition": "högt och smalt förvaringskärl för vätska, butelj",
+      "examples": [
+        {
+          "text": "Hon beställde in en flaska mineralvatten."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "vatten|flaska"
+        },
+        {
+          "text": "vin|flaska"
+        }
+      ]
+    }
+  ]
+}

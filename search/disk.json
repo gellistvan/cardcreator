@@ -1,0 +1,35 @@
+{
+  "n_results": 1,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00003639",
+      "language": "sv",
+      "headword": {
+        "text": "disk",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00004264",
+          "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas"
+        },
+        {
+          "id": "SV_SE00004265",
+          "definition": "bestick, tallrikar o.d. som diskas (1)"
+        },
+        {
+          "id": "SV_SE00004266",
+          "definition": "skiva där man lagrar data"
+        },
+        {
+          "id": "SV_SE00004267",
+          "definition": "en sorts platta mellan ryggradens kotor"
+        }
+      ]
+    }
+  ]
+}

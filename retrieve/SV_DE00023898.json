@@ -1,0 +1,114 @@
+{
+  "id": "SV_DE00023898",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "äta",
+    "pronunciation": {
+      "value": "ạ̈:ta"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "äter",
+        "tense": "present"
+      },
+      {
+        "text": "åt",
+        "tense": "imperfect"
+      },
+      {
+        "text": "ätit",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "äten",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "ät",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00029045",
+      "definition": "tugga och svälja mat e.d., inta måltid",
+      "range_of_application": "ngn/ngt äter (ngt)",
+      "translations": {
+        "de": {
+          "text": "essen"
+        },
+        "en": {
+          "text": "to eat"
+        },
+        "es": [
+          {
+            "text": "comer"
+          },
+          {
+            "text": "tomar"
+          }
+        ],
+        "fr": [
+          {
+            "text": "manger"
+          },
+          {
+            "text": "se restaurer"
+          },
+          {
+            "text": "dîner"
+          },
+          {
+            "text": "prendre le petit-déjeuner"
+          },
+          {
+            "text": "souper"
+          },
+          {
+            "text": "dîner"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Vi äter middag klockan 3.",
+          "translations": {
+            "de": {
+              "text": "Wir essen um drei Uhr Abendessen."
+            },
+            "en": {
+              "text": "We eat at 3 o'clock."
+            },
+            "es": {
+              "text": "Comemos a las 3."
+            },
+            "fr": {
+              "text": "Nous dînons à 3 heures."
+            }
+          }
+        },
+        {
+          "text": "Barnen åt med god aptit.",
+          "translations": {
+            "de": {
+              "text": "Die Kinder aßen mit gutem Appetit."
+            },
+            "en": {
+              "text": "The children ate heartily."
+            },
+            "es": {
+              "text": "Los niños comieron con mucho apetito."
+            },
+            "fr": {
+              "text": "Les enfants mangeaient de bon appétit."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

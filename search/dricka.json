@@ -1,0 +1,41 @@
+{
+  "n_results": 2,
+  "page_number": 1,
+  "results_per_page": 10,
+  "n_pages": 1,
+  "available_n_pages": 1,
+  "results": [
+    {
+      "id": "SV_DE00003842",
+      "language": "sv",
+      "headword": {
+        "text": "dricka",
+        "pos": "noun"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00004537",
+          "definition": "dryck"
+        }
+      ]
+    },
+    {
+      "id": "SV_DE00003843",
+      "language": "sv",
+      "headword": {
+        "text": "dricka",
+        "pos": "verb"
+      },
+      "senses": [
+        {
+          "id": "SV_SE00004538",
+          "definition": "sväljer ner vätska"
+        },
+        {
+          "id": "SV_SE00004539",
+          "definition": "berusar sig på sprit"
+        }
+      ]
+    }
+  ]
+}

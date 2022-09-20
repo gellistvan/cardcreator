@@ -1,0 +1,120 @@
+{
+  "id": "SV_DE00008644",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "ingrediens",
+    "pronunciation": {
+      "value": "ingrediẹn:s"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "ingrediensen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "ingredienser",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "ingredienserna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00010398",
+      "definition": "beståndsdel i en blandning",
+      "translations": {
+        "de": {
+          "text": "Zutat",
+          "gender": "feminine"
+        },
+        "en": {
+          "text": "ingredient"
+        },
+        "es": {
+          "text": "ingrediente",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "ingrédient",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Det var många olika ingredienser i salladen.",
+          "translations": {
+            "de": {
+              "text": "Es gab viele verschiedenen Zutaten im Salad."
+            },
+            "en": {
+              "text": "There were many different ingredients in the salad."
+            },
+            "es": {
+              "text": "Había muchos ingredientes distintos en la ensalada."
+            },
+            "fr": {
+              "text": "Il y avait de nombreux ingrédients dans la salade."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00010399",
+      "definition": "inslag, komponenter",
+      "translations": {
+        "de": {
+          "text": "Bestandsteil",
+          "gender": "masculine"
+        },
+        "en": [
+          {
+            "text": "ingredient"
+          },
+          {
+            "text": "component"
+          },
+          {
+            "text": "element"
+          }
+        ],
+        "es": {
+          "text": "ingrediente",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "ingrédient",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Filmen hade alla de kända ingredienserna: spänning, kärlek och komik.",
+          "translations": {
+            "de": {
+              "text": "Der Film hatte viele bekannte Bestandteile: Spannung, Liebe und Komik."
+            },
+            "en": {
+              "text": "The film had all the well-known ingredients: excitement, love, and comedy."
+            },
+            "es": {
+              "text": "La película tenía todos los ingredientes habituales: suspense, amor y humor."
+            },
+            "fr": {
+              "text": "Le film comportait tous les ingrédients connus : suspense, amour et comique."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

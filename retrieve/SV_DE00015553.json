@@ -1,0 +1,62 @@
+{
+  "id": "SV_DE00015553",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "raka",
+    "pronunciation": {
+      "value": "²rạ:ka"
+    },
+    "pos": "verb",
+    "homograph_number": 2,
+    "inflections": [
+      {
+        "text": "rakar",
+        "tense": "present"
+      },
+      {
+        "text": "rakade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "rakat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "rakad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "raka",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00018829",
+      "definition": "skär bort skägg eller hår",
+      "range_of_application": [
+        "ngn rakar (bort) ngt",
+        "ngn rakar ngn/ngt"
+      ],
+      "examples": [
+        {
+          "text": "Han rakar sig bara varannan dag."
+        },
+        {
+          "text": "Hon rakade sig under armarna."
+        },
+        {
+          "text": "Han rakade bort mustaschen."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "rak|hyvel"
+        }
+      ]
+    }
+  ]
+}

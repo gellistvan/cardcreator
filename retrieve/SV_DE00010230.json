@@ -1,0 +1,46 @@
+{
+  "id": "SV_DE00010230",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "kopp",
+    "pronunciation": {
+      "value": "kåp:"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "koppen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "koppar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "kopparna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00012340",
+      "definition": "liten skål (med öra) som man dricker ur",
+      "examples": [
+        {
+          "text": "en kopp te"
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "kaffe|kopp"
+        }
+      ]
+    }
+  ]
+}

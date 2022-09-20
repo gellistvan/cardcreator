@@ -1,0 +1,168 @@
+{
+  "id": "SV_DE00009829",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "kniv",
+    "pronunciation": {
+      "value": "kni:v"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "kniven",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "knivar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "knivarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00011839",
+      "definition": "ett redskap att skära med",
+      "translations": {
+        "de": {
+          "text": "Messer",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "knife"
+        },
+        "es": {
+          "text": "cuchillo",
+          "gender": "masculine"
+        },
+        "fr": {
+          "text": "couteau",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "en vass kniv",
+          "translations": {
+            "de": {
+              "text": "ein scharfes Messer"
+            },
+            "en": {
+              "text": "a sharp knife"
+            },
+            "es": {
+              "text": "un cuchillo afilado"
+            },
+            "fr": {
+              "text": "un couteau tranchant"
+            }
+          }
+        },
+        {
+          "text": "Hon är bara sex år men kan redan äta med kniv och gaffel.",
+          "translations": {
+            "de": {
+              "text": "Sie ist erst sechs Jahre alt, kann aber schon mit Messer und Gabel essen."
+            },
+            "en": {
+              "text": "She is only six years old, but can already eat with a knife and a fork."
+            },
+            "es": {
+              "text": "Ella sólo tiene seis años, pero ya sabe comer con cuchillo y tenedor."
+            },
+            "fr": {
+              "text": "Elle n'a que six ans et sait déjà se servir d'un couteau et d'une fourchette pour manger."
+            }
+          }
+        },
+        {
+          "text": "Kaparna hotade flygvärdinnorna med kniv.",
+          "translations": {
+            "de": {
+              "text": "Die Flugzeugentführer bedrohten die Stewardess mit einem Messer."
+            },
+            "en": {
+              "text": "The hijackers threatened the stewardesses with a knife."
+            },
+            "es": {
+              "text": "Los piratas aéreos amenazaron a las azafatas con un cuchillo."
+            },
+            "fr": {
+              "text": "Les pirates de l'air ont menacé les hôtesses de leurs couteaux."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "bords|kniv",
+          "translations": {
+            "de": {
+              "text": "Messer für das Hauptgericht",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "table knife"
+            },
+            "es": {
+              "text": "cuchillo de mesa",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "couteau de table (pl couteaux de table)",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "slid|kniv",
+          "translations": {
+            "de": {
+              "text": "Fahrtenmesser",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "knife with a sheath"
+            },
+            "es": {
+              "text": "cuchillo con vaina",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "couteau à gaine (pl couteaux à gaine)",
+              "gender": "masculine"
+            }
+          }
+        },
+        {
+          "text": "smör|kniv",
+          "translations": {
+            "de": {
+              "text": "Buttermesser",
+              "gender": "neuter"
+            },
+            "en": {
+              "text": "butter knife"
+            },
+            "es": {
+              "text": "cuchillo para mantequilla",
+              "gender": "masculine"
+            },
+            "fr": {
+              "text": "couteau à beurre (pl couteaux à beurre)",
+              "gender": "masculine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

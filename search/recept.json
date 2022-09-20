@@ -6,20 +6,20 @@
   "available_n_pages": 1,
   "results": [
     {
-      "id": "SV_DE00005838",
+      "id": "SV_DE00015680",
       "language": "sv",
       "headword": {
-        "text": "fönster",
+        "text": "recept",
         "pos": "noun"
       },
       "senses": [
         {
-          "id": "SV_SE00007031",
-          "definition": "glasad öppning i vägg eller tak"
+          "id": "SV_SE00018981",
+          "definition": "beställning av läkemedel som en läkare bestämt att en patient ska använda"
         },
         {
-          "id": "SV_SE00007032",
-          "definition": "öppning"
+          "id": "SV_SE00018982",
+          "definition": "beskrivning av hur man tillagar en maträtt"
         }
       ]
     }

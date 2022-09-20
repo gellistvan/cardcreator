@@ -1,0 +1,100 @@
+{
+  "id": "SV_DE00011450",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "lunch",
+    "pronunciation": {
+      "value": "lun:ʃ"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "lunchen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "luncher",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "luncherna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00013904",
+      "definition": "(lättare) måltid mitt på dagen",
+      "translations": {
+        "de": {
+          "text": "Mittagessen",
+          "gender": "neuter"
+        },
+        "en": {
+          "text": "lunch"
+        },
+        "es": [
+          {
+            "text": "almuerzo",
+            "gender": "masculine"
+          },
+          {
+            "text": "comida",
+            "gender": "feminine"
+          }
+        ],
+        "fr": {
+          "text": "déjeuner",
+          "gender": "masculine"
+        }
+      },
+      "examples": [
+        {
+          "text": "Anna är på lunch och kommer klockan 13.",
+          "translations": {
+            "de": {
+              "text": "Anna isst gerade ihr Mittagessen, sie ist um 13 Uhr zurück."
+            },
+            "en": {
+              "text": "Anna is at lunch and will come back at 1 o'clock."
+            },
+            "es": {
+              "text": "Anna ha ido a comer y volverá a las 13:00."
+            },
+            "fr": {
+              "text": "Anna est en pause déjeuner, elle arrivera à 13 heures."
+            }
+          }
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "lunch|rast",
+          "translations": {
+            "de": {
+              "text": "Mittagspause",
+              "gender": "feminine"
+            },
+            "en": {
+              "text": "lunch break"
+            },
+            "es": {
+              "text": "pausa del almuerzo",
+              "gender": "feminine"
+            },
+            "fr": {
+              "text": "pause déjeuner",
+              "gender": "feminine"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

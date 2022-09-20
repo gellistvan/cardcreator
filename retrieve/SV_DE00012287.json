@@ -1,0 +1,69 @@
+{
+  "id": "SV_DE00012287",
+  "source": "global",
+  "language": "sv",
+  "version": 2,
+  "headword": {
+    "text": "middag",
+    "pronunciation": {
+      "value": "mịd:a(:g)"
+    },
+    "pos": "noun",
+    "inflections": [
+      {
+        "text": "middagen",
+        "number": "singular",
+        "subcategorization": "determined"
+      },
+      {
+        "text": "middagar",
+        "number": "plural",
+        "subcategorization": "undetermined"
+      },
+      {
+        "text": "middagarna",
+        "number": "plural",
+        "subcategorization": "determined"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00014942",
+      "definition": "tiden omkring klockan 12 på dagen",
+      "examples": [
+        {
+          "text": "Temperaturen var på middagen +10 grader."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "middags|tid"
+        },
+        {
+          "text": "efter|middag"
+        },
+        {
+          "text": "för|middag"
+        }
+      ]
+    },
+    {
+      "id": "SV_SE00014943",
+      "definition": "dagens kraftigaste måltid",
+      "examples": [
+        {
+          "text": "De åt middag klockan 5."
+        }
+      ],
+      "compositional_phrases": [
+        {
+          "text": "middags|mat"
+        },
+        {
+          "text": "fest|middag"
+        }
+      ]
+    }
+  ]
+}

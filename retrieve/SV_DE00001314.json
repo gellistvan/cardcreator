@@ -1,0 +1,83 @@
+{
+  "id": "SV_DE00001314",
+  "source": "global",
+  "language": "sv",
+  "version": 1,
+  "headword": {
+    "text": "baka",
+    "pronunciation": {
+      "value": "²bạ:ka"
+    },
+    "pos": "verb",
+    "inflections": [
+      {
+        "text": "bakar",
+        "tense": "present"
+      },
+      {
+        "text": "bakade",
+        "tense": "imperfect"
+      },
+      {
+        "text": "bakat",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "bakad",
+        "tense": "pastParticiple"
+      },
+      {
+        "text": "baka",
+        "mood": "imperative"
+      }
+    ]
+  },
+  "senses": [
+    {
+      "id": "SV_SE00001485",
+      "definition": "tillverkar bröd",
+      "range_of_application": "ngn bakar (ngt)",
+      "translations": {
+        "de": {
+          "text": "backen"
+        },
+        "en": {
+          "text": "to bake"
+        },
+        "es": {
+          "text": "cocer al horno"
+        },
+        "fr": [
+          {
+            "text": "faire du pain"
+          },
+          {
+            "text": "faire de la pâtisserie"
+          },
+          {
+            "text": "cuire au four"
+          }
+        ]
+      },
+      "examples": [
+        {
+          "text": "Barnen bakade en sockerkaka.",
+          "translations": {
+            "de": {
+              "text": "Die Kinder haben einen Kuchen gebacken."
+            },
+            "en": {
+              "text": "The children made a sponge cake."
+            },
+            "es": {
+              "text": "Los niños hicieron un bizcocho."
+            },
+            "fr": {
+              "text": "Les enfants ont fait une génoise."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
